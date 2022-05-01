@@ -1,0 +1,1033 @@
+"","X","Event","Year","Game.Number","White.Player","White.ACPL","White.Num.Moves","Black.Player","Black.ACPL","Black.Num.Moves","Combined.ACPL","Black.Player_ID","White.Player_ID","PreDeepBlue"
+"1",584,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,1,"Zukertort, Johannes Hermann",47.68888889,45,"Steinitz, William",27.93478261,46,75.6236715,"34","39",TRUE
+"2",585,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,2,"Steinitz, William",48.11111111,45,"Zukertort, Johannes Hermann",28.41304348,46,76.52415459,"39","34",TRUE
+"3",586,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,3,"Zukertort, Johannes Hermann",28.56521739,46,"Steinitz, William",49.45652174,46,78.02173913,"34","39",TRUE
+"4",587,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,4,"Steinitz, William",29.84210526,38,"Zukertort, Johannes Hermann",9.564102564,39,39.40620783,"39","34",TRUE
+"5",588,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,5,"Zukertort, Johannes Hermann",16.4516129,31,"Steinitz, William",39.48387097,31,55.93548387,"34","39",TRUE
+"6",589,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,6,"Steinitz, William",46.13333333,60,"Zukertort, Johannes Hermann",62.78333333,60,108.9166667,"39","34",TRUE
+"7",590,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,7,"Zukertort, Johannes Hermann",50.82352941,34,"Steinitz, William",21.14285714,35,71.96638655,"34","39",TRUE
+"8",591,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,8,"Steinitz, William",25.23809524,21,"Zukertort, Johannes Hermann",22.52380952,21,47.76190476,"39","34",TRUE
+"9",592,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,9,"Zukertort, Johannes Hermann",48.51351351,37,"Steinitz, William",21.84210526,38,70.35561878,"34","39",TRUE
+"10",593,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,10,"Steinitz, William",10.25,20,"Zukertort, Johannes Hermann",8.047619048,21,18.29761905,"39","34",TRUE
+"11",594,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,11,"Zukertort, Johannes Hermann",81.30769231,39,"Steinitz, William",72.28205128,39,153.5897436,"34","39",TRUE
+"12",595,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,12,"Steinitz, William",24.18604651,43,"Zukertort, Johannes Hermann",38.88372093,43,63.06976744,"39","34",TRUE
+"13",596,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,13,"Zukertort, Johannes Hermann",33.34117647,85,"Steinitz, William",44.65882353,85,78,"34","39",TRUE
+"14",597,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,14,"Steinitz, William",12.17021277,47,"Zukertort, Johannes Hermann",10.27083333,48,22.4410461,"39","34",TRUE
+"15",598,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,15,"Zukertort, Johannes Hermann",31.66666667,48,"Steinitz, William",30.10416667,48,61.77083333,"34","39",TRUE
+"16",599,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,16,"Steinitz, William",20.35416667,48,"Zukertort, Johannes Hermann",38.64583333,48,59,"39","34",TRUE
+"17",600,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,17,"Zukertort, Johannes Hermann",24.37254902,51,"Steinitz, William",18.92307692,52,43.29562594,"34","39",TRUE
+"18",601,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,18,"Steinitz, William",18.56410256,39,"Zukertort, Johannes Hermann",40.46153846,39,59.02564103,"39","34",TRUE
+"19",602,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,19,"Zukertort, Johannes Hermann",56.96428571,28,"Steinitz, William",31.13793103,29,88.10221675,"34","39",TRUE
+"20",603,"lichess_study_1886-world-championship-steinitz-zukertor_by_Lichess_2021.11.29.pgn",1886,20,"Steinitz, William",16.11111111,18,"Zukertort, Johannes Hermann",64.94444444,18,81.05555556,"39","34",TRUE
+"21",59,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,1,"Chigorin, Mikhail",20.96491228,57,"Steinitz, William",34.12280702,57,55.0877193,"34","10",TRUE
+"22",60,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,2,"Steinitz, William",26.08108108,37,"Chigorin, Mikhail",43.02702703,37,69.10810811,"10","34",TRUE
+"23",61,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,3,"Chigorin, Mikhail",22.51219512,82,"Steinitz, William",32.79268293,82,55.30487805,"34","10",TRUE
+"24",62,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,4,"Steinitz, William",6.761904762,21,"Chigorin, Mikhail",42.61904762,21,49.38095238,"10","34",TRUE
+"25",63,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,5,"Chigorin, Mikhail",60,25,"Steinitz, William",19.57692308,26,79.57692308,"34","10",TRUE
+"26",64,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,6,"Steinitz, William",57.16666667,36,"Chigorin, Mikhail",34.02702703,37,91.19369369,"10","34",TRUE
+"27",65,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,7,"Chigorin, Mikhail",33.90909091,33,"Steinitz, William",51.42424242,33,85.33333333,"34","10",TRUE
+"28",66,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,8,"Steinitz, William",25.2972973,37,"Chigorin, Mikhail",40.64864865,37,65.94594595,"10","34",TRUE
+"29",67,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,9,"Chigorin, Mikhail",54.85454545,55,"Steinitz, William",45.21428571,56,100.0688312,"34","10",TRUE
+"30",68,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,10,"Steinitz, William",18.53846154,26,"Chigorin, Mikhail",41.80769231,26,60.34615385,"10","34",TRUE
+"31",69,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,11,"Chigorin, Mikhail",26.83333333,30,"Steinitz, William",55.16666667,30,82,"34","10",TRUE
+"32",70,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,12,"Steinitz, William",56.66666667,60,"Chigorin, Mikhail",69.66666667,60,126.3333333,"10","34",TRUE
+"33",71,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,13,"Chigorin, Mikhail",40.82539683,63,"Steinitz, William",55.33333333,63,96.15873016,"34","10",TRUE
+"34",72,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,14,"Steinitz, William",18.64705882,34,"Chigorin, Mikhail",42.20588235,34,60.85294118,"10","34",TRUE
+"35",73,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,15,"Chigorin, Mikhail",114.2,35,"Steinitz, William",97.77777778,36,211.9777778,"34","10",TRUE
+"36",74,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,16,"Steinitz, William",31.7254902,51,"Chigorin, Mikhail",46.43137255,51,78.15686275,"10","34",TRUE
+"37",75,"lichess_study_1889-world-championship-steinitz-chigorin_by_Lichess_2021.11.29.pgn",1889,17,"Chigorin, Mikhail",34.30434783,69,"Steinitz, William",30.15714286,70,64.46149068,"34","10",TRUE
+"38",842,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,1,"Steinitz, William",30.70833333,24,"Gunsberg, Isidor",27.28,25,57.98833333,"15","34",TRUE
+"39",843,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,2,"Gunsberg, Isidor",35.55263158,38,"Steinitz, William",13.97435897,39,49.52699055,"34","15",TRUE
+"40",844,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,3,"Steinitz, William",15.19230769,26,"Gunsberg, Isidor",15.22222222,27,30.41452991,"15","34",TRUE
+"41",845,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,4,"Gunsberg, Isidor",30.75,56,"Steinitz, William",44.16071429,56,74.91071429,"34","15",TRUE
+"42",846,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,5,"Steinitz, William",69.625,24,"Gunsberg, Isidor",29.84,25,99.465,"15","34",TRUE
+"43",847,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,6,"Gunsberg, Isidor",66.57142857,42,"Steinitz, William",44.23255814,43,110.8039867,"34","15",TRUE
+"44",848,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,7,"Steinitz, William",26.81481481,27,"Gunsberg, Isidor",60.25925926,27,87.07407407,"15","34",TRUE
+"45",849,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,8,"Gunsberg, Isidor",13.62857143,35,"Steinitz, William",13.05714286,35,26.68571429,"34","15",TRUE
+"46",850,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,9,"Steinitz, William",27.91139241,79,"Gunsberg, Isidor",25.82278481,79,53.73417722,"15","34",TRUE
+"47",851,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,10,"Gunsberg, Isidor",40.57142857,42,"Steinitz, William",31.74418605,43,72.31561462,"34","15",TRUE
+"48",852,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,11,"Steinitz, William",5.107142857,28,"Gunsberg, Isidor",7.035714286,28,12.14285714,"15","34",TRUE
+"49",853,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,12,"Gunsberg, Isidor",19.2173913,23,"Steinitz, William",43.56521739,23,62.7826087,"34","15",TRUE
+"50",854,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,13,"Steinitz, William",36.20512821,39,"Gunsberg, Isidor",60.71794872,39,96.92307692,"15","34",TRUE
+"51",855,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,14,"Gunsberg, Isidor",36.84375,32,"Steinitz, William",29.66666667,33,66.51041667,"34","15",TRUE
+"52",856,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,15,"Steinitz, William",9.105263158,38,"Gunsberg, Isidor",8.631578947,38,17.73684211,"15","34",TRUE
+"53",857,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,16,"Gunsberg, Isidor",53.1,20,"Steinitz, William",82.35,20,135.45,"34","15",TRUE
+"54",858,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,17,"Steinitz, William",20.96363636,55,"Gunsberg, Isidor",20.05357143,56,41.01720779,"15","34",TRUE
+"55",859,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,18,"Gunsberg, Isidor",40.24528302,53,"Steinitz, William",25.98148148,54,66.2267645,"34","15",TRUE
+"56",860,"lichess_study_1890-world-championship-steinitz-vs-gunsberg_by_Lichess_2021.11.29.pgn",1890,19,"Steinitz, William",10.975,40,"Gunsberg, Isidor",13.34146341,41,24.31646341,"15","34",TRUE
+"57",649,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,1,"Chigorin, Mikhail",38.76666667,30,"Steinitz, William",71.1,30,109.8666667,"34","10",TRUE
+"58",650,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,2,"Steinitz, William",45.5483871,31,"Chigorin, Mikhail",41.41935484,31,86.96774194,"10","34",TRUE
+"59",651,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,3,"Chigorin, Mikhail",36.29032258,31,"Steinitz, William",38.4375,32,74.72782258,"34","10",TRUE
+"60",652,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,4,"Steinitz, William",15.25925926,27,"Chigorin, Mikhail",50.74074074,27,66,"10","34",TRUE
+"61",653,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,5,"Chigorin, Mikhail",23.11111111,54,"Steinitz, William",22.96296296,54,46.07407407,"34","10",TRUE
+"62",654,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,6,"Steinitz, William",22.43478261,46,"Chigorin, Mikhail",41.17391304,46,63.60869565,"10","34",TRUE
+"63",655,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,7,"Chigorin, Mikhail",29.11111111,27,"Steinitz, William",65.11111111,27,94.22222222,"34","10",TRUE
+"64",656,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,8,"Steinitz, William",60.91304348,23,"Chigorin, Mikhail",17.625,24,78.53804348,"10","34",TRUE
+"65",657,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,9,"Chigorin, Mikhail",19.60606061,33,"Steinitz, William",15.87878788,33,35.48484848,"34","10",TRUE
+"66",658,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,10,"Steinitz, William",58.37931034,29,"Chigorin, Mikhail",30.9,30,89.27931034,"10","34",TRUE
+"67",659,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,11,"Chigorin, Mikhail",37.40909091,44,"Steinitz, William",18.62222222,45,56.03131313,"34","10",TRUE
+"68",660,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,12,"Steinitz, William",53.32,25,"Chigorin, Mikhail",14.96153846,26,68.28153846,"10","34",TRUE
+"69",661,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,13,"Chigorin, Mikhail",42.10810811,37,"Steinitz, William",19.5,38,61.60810811,"34","10",TRUE
+"70",662,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,14,"Steinitz, William",14.0625,32,"Chigorin, Mikhail",43.5,32,57.5625,"10","34",TRUE
+"71",663,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,15,"Chigorin, Mikhail",97.82608696,46,"Steinitz, William",114.5,46,212.326087,"34","10",TRUE
+"72",664,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,16,"Steinitz, William",15,37,"Chigorin, Mikhail",29.32432432,37,44.32432432,"10","34",TRUE
+"73",665,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,17,"Chigorin, Mikhail",47.52631579,38,"Steinitz, William",66.18421053,38,113.7105263,"34","10",TRUE
+"74",666,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,18,"Steinitz, William",17.05263158,38,"Chigorin, Mikhail",38.18421053,38,55.23684211,"10","34",TRUE
+"75",667,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,19,"Chigorin, Mikhail",68.80645161,31,"Steinitz, William",98.32258065,31,167.1290323,"34","10",TRUE
+"76",668,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,20,"Steinitz, William",26.45,40,"Chigorin, Mikhail",37.1,40,63.55,"10","34",TRUE
+"77",669,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,21,"Chigorin, Mikhail",43.39130435,46,"Steinitz, William",38.65217391,46,82.04347826,"34","10",TRUE
+"78",670,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,22,"Steinitz, William",26.5,48,"Chigorin, Mikhail",41.25,48,67.75,"10","34",TRUE
+"79",671,"lichess_study_1892-world-championship-steinitz-chigorin-ii_by_Lichess_2021.11.29.pgn",1892,23,"Chigorin, Mikhail",71.22580645,31,"Steinitz, William",36.96875,32,108.1945565,"34","10",TRUE
+"80",420,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,1,"Lasker, Emanuel",22.74576271,59,"Steinitz, William",33.15254237,59,55.89830508,"34","23",TRUE
+"81",421,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,2,"Steinitz, William",25.85365854,41,"Lasker, Emanuel",42.58536585,41,68.43902439,"23","34",TRUE
+"82",422,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,3,"Lasker, Emanuel",43.21568627,51,"Steinitz, William",48.35294118,51,91.56862745,"34","23",TRUE
+"83",423,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,4,"Steinitz, William",58.42372881,59,"Lasker, Emanuel",64.54237288,59,122.9661017,"23","34",TRUE
+"84",424,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,5,"Lasker, Emanuel",30.12244898,49,"Steinitz, William",26.12244898,49,56.24489796,"34","23",TRUE
+"85",425,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,6,"Steinitz, William",23.7,70,"Lasker, Emanuel",23.16901408,71,46.86901408,"23","34",TRUE
+"86",426,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,7,"Lasker, Emanuel",34.86666667,45,"Steinitz, William",50.51111111,45,85.37777778,"34","23",TRUE
+"87",427,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,8,"Steinitz, William",42.38666667,75,"Lasker, Emanuel",32.93421053,76,75.32087719,"23","34",TRUE
+"88",428,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,9,"Lasker, Emanuel",16.1875,48,"Steinitz, William",33.04166667,48,49.22916667,"34","23",TRUE
+"89",429,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,10,"Steinitz, William",61.84848485,33,"Lasker, Emanuel",30.94117647,34,92.78966132,"23","34",TRUE
+"90",430,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,11,"Lasker, Emanuel",42.97297297,37,"Steinitz, William",61.7027027,37,104.6756757,"34","23",TRUE
+"91",431,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,12,"Steinitz, William",16.89361702,47,"Lasker, Emanuel",17.3125,48,34.20611702,"23","34",TRUE
+"92",432,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,13,"Lasker, Emanuel",35.90740741,54,"Steinitz, William",18.94545455,55,54.85286195,"34","23",TRUE
+"93",433,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,14,"Steinitz, William",20.64444444,45,"Lasker, Emanuel",38.24444444,45,58.88888889,"23","34",TRUE
+"94",434,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,15,"Lasker, Emanuel",17.93023256,43,"Steinitz, William",36.44186047,43,54.37209302,"34","23",TRUE
+"95",435,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,16,"Steinitz, William",32.16981132,53,"Lasker, Emanuel",15,54,47.16981132,"23","34",TRUE
+"96",436,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,17,"Lasker, Emanuel",29.14,50,"Steinitz, William",20.62745098,51,49.76745098,"34","23",TRUE
+"97",437,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,18,"Steinitz, William",23.2,60,"Lasker, Emanuel",22.7704918,61,45.9704918,"23","34",TRUE
+"98",438,"lichess_study_1894-chess-world-championship-steinitz-lasker_by_Lichess_2021.11.29.pgn",1894,19,"Lasker, Emanuel",19.19607843,51,"Steinitz, William",31.09803922,51,50.29411765,"34","23",TRUE
+"99",513,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,1,"Steinitz, William",31.75,44,"Lasker, Emanuel",18.24444444,45,49.99444444,"23","34",TRUE
+"100",514,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,2,"Lasker, Emanuel",17.51428571,35,"Steinitz, William",43.55555556,36,61.06984127,"34","23",TRUE
+"101",515,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,3,"Steinitz, William",42,38,"Lasker, Emanuel",25.76923077,39,67.76923077,"23","34",TRUE
+"102",516,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,4,"Lasker, Emanuel",10.56923077,65,"Steinitz, William",18.84615385,65,29.41538462,"34","23",TRUE
+"103",517,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,5,"Steinitz, William",45.71052632,38,"Lasker, Emanuel",45.43589744,39,91.14642375,"23","34",TRUE
+"104",518,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,6,"Lasker, Emanuel",35.57894737,57,"Steinitz, William",52.36842105,57,87.94736842,"34","23",TRUE
+"105",519,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,7,"Steinitz, William",23.44594595,74,"Lasker, Emanuel",22.32,75,45.76594595,"23","34",TRUE
+"106",520,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,8,"Lasker, Emanuel",47.67272727,55,"Steinitz, William",50.8,55,98.47272727,"34","23",TRUE
+"107",521,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,9,"Steinitz, William",42.54545455,33,"Lasker, Emanuel",38.14705882,34,80.69251337,"23","34",TRUE
+"108",522,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,10,"Lasker, Emanuel",21.75,40,"Steinitz, William",34.675,40,56.425,"34","23",TRUE
+"109",523,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,11,"Steinitz, William",41.36507937,63,"Lasker, Emanuel",33.71875,64,75.08382937,"23","34",TRUE
+"110",524,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,12,"Lasker, Emanuel",39.68965517,29,"Steinitz, William",21.36666667,30,61.05632184,"34","23",TRUE
+"111",525,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,13,"Steinitz, William",17.81081081,37,"Lasker, Emanuel",30.54054054,37,48.35135135,"23","34",TRUE
+"112",526,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,14,"Lasker, Emanuel",27.80519481,77,"Steinitz, William",39.93506494,77,67.74025974,"34","23",TRUE
+"113",527,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,15,"Steinitz, William",16.26470588,34,"Lasker, Emanuel",15.35294118,34,31.61764706,"23","34",TRUE
+"114",528,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,16,"Lasker, Emanuel",20,41,"Steinitz, William",42.70731707,41,62.70731707,"34","23",TRUE
+"115",529,"lichess_study_1896-world-championship-lasker-steinitz-ii_by_Lichess_2021.11.29.pgn",1896,17,"Steinitz, William",35.63793103,58,"Lasker, Emanuel",24.50847458,59,60.14640561,"23","34",TRUE
+"116",116,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,1,"Marshall, Frank James",40.66666667,48,"Lasker, Emanuel",22.73469388,49,63.40136054,"23","25",TRUE
+"117",117,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,2,"Lasker, Emanuel",26.33333333,51,"Marshall, Frank James",38.01960784,51,64.35294118,"25","23",TRUE
+"118",118,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,3,"Marshall, Frank James",57.7804878,41,"Lasker, Emanuel",30.14285714,42,87.92334495,"23","25",TRUE
+"119",119,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,4,"Lasker, Emanuel",12.69230769,39,"Marshall, Frank James",11.1,40,23.79230769,"25","23",TRUE
+"120",120,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,5,"Marshall, Frank James",12.825,40,"Lasker, Emanuel",12.26829268,41,25.09329268,"23","25",TRUE
+"121",121,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,6,"Lasker, Emanuel",7.3,20,"Marshall, Frank James",5.047619048,21,12.34761905,"25","23",TRUE
+"122",122,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,7,"Marshall, Frank James",28.3125,48,"Lasker, Emanuel",26,48,54.3125,"23","25",TRUE
+"123",123,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,8,"Lasker, Emanuel",29.2238806,67,"Marshall, Frank James",42.64705882,68,71.87093942,"25","23",TRUE
+"124",124,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,9,"Marshall, Frank James",11,45,"Lasker, Emanuel",10.46666667,45,21.46666667,"23","25",TRUE
+"125",125,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,10,"Lasker, Emanuel",18.40425532,47,"Marshall, Frank James",18,47,36.40425532,"25","23",TRUE
+"126",126,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,11,"Marshall, Frank James",15.08,50,"Lasker, Emanuel",14.26,50,29.34,"23","25",TRUE
+"127",127,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,12,"Lasker, Emanuel",21.04444444,45,"Marshall, Frank James",42.66666667,45,63.71111111,"25","23",TRUE
+"128",128,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,13,"Marshall, Frank James",33.40350877,57,"Lasker, Emanuel",17.81034483,58,51.2138536,"23","25",TRUE
+"129",129,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,14,"Lasker, Emanuel",15.1,20,"Marshall, Frank James",63.45,20,78.55,"25","23",TRUE
+"130",130,"lichess_study_1907-world-championship-lasker-marshall_by_Lichess_2021.11.29.pgn",1907,15,"Marshall, Frank James",41.02777778,36,"Lasker, Emanuel",25.32432432,37,66.3521021,"23","25",TRUE
+"131",192,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,1,"Lasker, Emanuel",18.55555556,54,"Tarrasch, Siegbert",31.44444444,54,50,"37","23",TRUE
+"132",193,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,2,"Tarrasch, Siegbert",50,40,"Lasker, Emanuel",32.51219512,41,82.51219512,"23","37",TRUE
+"133",194,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,3,"Lasker, Emanuel",47.02325581,43,"Tarrasch, Siegbert",24.18181818,44,71.205074,"37","23",TRUE
+"134",195,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,4,"Tarrasch, Siegbert",39.3,40,"Lasker, Emanuel",14.24390244,41,53.54390244,"23","37",TRUE
+"135",196,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,5,"Lasker, Emanuel",34.72972973,37,"Tarrasch, Siegbert",58.54054054,37,93.27027027,"37","23",TRUE
+"136",197,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,6,"Tarrasch, Siegbert",27.88461538,52,"Lasker, Emanuel",25.83018868,53,53.71480406,"23","37",TRUE
+"137",198,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,7,"Lasker, Emanuel",30.77333333,75,"Tarrasch, Siegbert",40.26666667,75,71.04,"37","23",TRUE
+"138",199,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,8,"Tarrasch, Siegbert",14.34042553,47,"Lasker, Emanuel",13.70833333,48,28.04875887,"23","37",TRUE
+"139",200,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,9,"Lasker, Emanuel",11.97183099,71,"Tarrasch, Siegbert",11.83098592,71,23.8028169,"37","23",TRUE
+"140",201,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,10,"Tarrasch, Siegbert",13.38709677,31,"Lasker, Emanuel",23.38709677,31,36.77419355,"23","37",TRUE
+"141",202,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,11,"Lasker, Emanuel",21.44444444,27,"Tarrasch, Siegbert",51.7037037,27,73.14814815,"37","23",TRUE
+"142",203,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,12,"Tarrasch, Siegbert",26.640625,64,"Lasker, Emanuel",38.75,64,65.390625,"23","37",TRUE
+"143",204,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,13,"Lasker, Emanuel",24.90697674,43,"Tarrasch, Siegbert",36.8372093,43,61.74418605,"37","23",TRUE
+"144",205,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,14,"Tarrasch, Siegbert",11.61616162,99,"Lasker, Emanuel",11.62,100,23.23616162,"23","37",TRUE
+"145",206,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,15,"Lasker, Emanuel",9.98,50,"Tarrasch, Siegbert",8.470588235,51,18.45058824,"37","23",TRUE
+"146",207,"lichess_study_1908-world-championship-lasker-tarrasch_by_Lichess_2021.11.29.pgn",1908,16,"Tarrasch, Siegbert",80.24,25,"Lasker, Emanuel",44.61538462,26,124.8553846,"23","37",TRUE
+"147",503,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,1,"Lasker, Emanuel",8.5,42,"Janowsky, Dawid Markelowicz",9.285714286,42,17.78571429,"16","23",TRUE
+"148",504,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,2,"Janowsky, Dawid Markelowicz",40.80645161,31,"Lasker, Emanuel",17.09375,32,57.90020161,"23","16",TRUE
+"149",505,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,3,"Lasker, Emanuel",14.83783784,37,"Janowsky, Dawid Markelowicz",31.72972973,37,46.56756757,"16","23",TRUE
+"150",506,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,4,"Janowsky, Dawid Markelowicz",31.91836735,49,"Lasker, Emanuel",19.3,50,51.21836735,"23","16",TRUE
+"151",507,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,5,"Lasker, Emanuel",39.46666667,60,"Janowsky, Dawid Markelowicz",51.45,60,90.91666667,"16","23",TRUE
+"152",508,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,6,"Janowsky, Dawid Markelowicz",26.5625,32,"Lasker, Emanuel",45.34375,32,71.90625,"23","16",TRUE
+"153",509,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,7,"Lasker, Emanuel",14.90322581,62,"Janowsky, Dawid Markelowicz",24.93548387,62,39.83870968,"16","23",TRUE
+"154",510,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,8,"Janowsky, Dawid Markelowicz",11.31034483,29,"Lasker, Emanuel",11.63333333,30,22.94367816,"23","16",TRUE
+"155",511,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,9,"Lasker, Emanuel",15.91666667,60,"Janowsky, Dawid Markelowicz",29.88333333,60,45.8,"16","23",TRUE
+"156",512,"lichess_study_1909-world-championship-lasker-janowsky_by_Lichess_2021.11.29.pgn",1909,10,"Janowsky, Dawid Markelowicz",37.35714286,28,"Lasker, Emanuel",19.86206897,29,57.21921182,"23","16",TRUE
+"157",38,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,1,"Schlechter, Carl",9.691176471,68,"Lasker, Emanuel",17.36231884,69,27.05349531,"23","30",TRUE
+"158",39,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,2,"Lasker, Emanuel",15.20588235,34,"Schlechter, Carl",17.02857143,35,32.23445378,"30","23",TRUE
+"159",40,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,3,"Schlechter, Carl",10.56666667,30,"Lasker, Emanuel",10.90322581,31,21.46989247,"23","30",TRUE
+"160",41,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,4,"Lasker, Emanuel",16.69090909,55,"Schlechter, Carl",16.51785714,56,33.20876623,"30","23",TRUE
+"161",42,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,5,"Schlechter, Carl",13.71929825,57,"Lasker, Emanuel",30.87931034,58,44.59860859,"23","30",TRUE
+"162",43,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,6,"Lasker, Emanuel",10.08695652,46,"Schlechter, Carl",9.574468085,47,19.66142461,"30","23",TRUE
+"163",44,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,7,"Schlechter, Carl",23.68085106,47,"Lasker, Emanuel",22.89583333,48,46.5766844,"23","30",TRUE
+"164",45,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,8,"Lasker, Emanuel",10.26190476,42,"Schlechter, Carl",9.534883721,43,19.79678848,"30","23",TRUE
+"165",46,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,9,"Schlechter, Carl",18.34375,64,"Lasker, Emanuel",18.265625,64,36.609375,"23","30",TRUE
+"166",47,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,10,"Lasker, Emanuel",21.78571429,70,"Schlechter, Carl",25.64285714,70,47.42857143,"30","23",TRUE
+"167",48,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,11,"Lasker, Emanuel",12.38095238,21,"Janowsky, Dawid Markelowicz",49.95238095,21,62.33333333,"16","23",TRUE
+"168",49,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,12,"Janowsky, Dawid Markelowicz",9.25,44,"Lasker, Emanuel",8.622222222,45,17.87222222,"23","16",TRUE
+"169",50,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,13,"Lasker, Emanuel",11.86868687,99,"Janowsky, Dawid Markelowicz",11.48,100,23.34868687,"16","23",TRUE
+"170",51,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,14,"Janowsky, Dawid Markelowicz",31.96666667,30,"Lasker, Emanuel",13.58064516,31,45.54731183,"23","16",TRUE
+"171",52,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,15,"Lasker, Emanuel",33.39285714,28,"Janowsky, Dawid Markelowicz",67.14285714,28,100.5357143,"16","23",TRUE
+"172",53,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,16,"Janowsky, Dawid Markelowicz",15.21212121,66,"Lasker, Emanuel",13.18181818,66,28.39393939,"23","16",TRUE
+"173",54,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,17,"Lasker, Emanuel",23.13333333,45,"Janowsky, Dawid Markelowicz",37.77777778,45,60.91111111,"16","23",TRUE
+"174",55,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,18,"Janowsky, Dawid Markelowicz",34.83908046,87,"Lasker, Emanuel",22.69318182,88,57.53226228,"23","16",TRUE
+"175",56,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,19,"Lasker, Emanuel",20.28571429,42,"Janowsky, Dawid Markelowicz",43.33333333,42,63.61904762,"16","23",TRUE
+"176",57,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,20,"Janowsky, Dawid Markelowicz",28.21568627,51,"Lasker, Emanuel",11.26923077,52,39.48491704,"23","16",TRUE
+"177",58,"lichess_study_1910-world-championship-laker-schlechter_by_Lichess_2021.11.29.pgn",1910,21,"Lasker, Emanuel",36.55172414,29,"Janowsky, Dawid Markelowicz",70.55172414,29,107.1034483,"16","23",TRUE
+"178",24,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,1,"Capablanca, Jose Raul",14.08163265,49,"Lasker, Emanuel",14.82,50,28.90163265,"23","7",TRUE
+"179",25,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,2,"Lasker, Emanuel",18.35,40,"Capablanca, Jose Raul",18.275,40,36.625,"7","23",TRUE
+"180",26,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,3,"Capablanca, Jose Raul",6.080645161,62,"Lasker, Emanuel",6.129032258,62,12.20967742,"23","7",TRUE
+"181",27,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,4,"Lasker, Emanuel",9.896551724,29,"Capablanca, Jose Raul",8.689655172,29,18.5862069,"7","23",TRUE
+"182",28,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,5,"Capablanca, Jose Raul",44.06666667,45,"Lasker, Emanuel",54.24444444,45,98.31111111,"23","7",TRUE
+"183",29,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,6,"Lasker, Emanuel",5.523809524,42,"Capablanca, Jose Raul",6.255813953,43,11.77962348,"7","23",TRUE
+"184",30,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,7,"Capablanca, Jose Raul",9.318181818,22,"Lasker, Emanuel",9.869565217,23,19.18774704,"23","7",TRUE
+"185",31,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,8,"Lasker, Emanuel",8.724137931,29,"Capablanca, Jose Raul",7.2,30,15.92413793,"7","23",TRUE
+"186",32,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,9,"Capablanca, Jose Raul",13.1,20,"Lasker, Emanuel",12.66666667,21,25.76666667,"23","7",TRUE
+"187",33,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,10,"Lasker, Emanuel",25.68656716,67,"Capablanca, Jose Raul",14.73529412,68,40.42186128,"7","23",TRUE
+"188",34,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,11,"Capablanca, Jose Raul",21.57446809,47,"Lasker, Emanuel",42.40425532,47,63.9787234,"23","7",TRUE
+"189",35,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,12,"Lasker, Emanuel",29.03333333,30,"Capablanca, Jose Raul",29.4,30,58.43333333,"7","23",TRUE
+"190",36,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,13,"Capablanca, Jose Raul",11.13636364,22,"Lasker, Emanuel",10.47826087,23,21.61462451,"23","7",TRUE
+"191",37,"lichess_study_1921-world-championship-lasker-capablanca_by_Lichess_2021.11.29.pgn",1921,14,"Lasker, Emanuel",23,55,"Capablanca, Jose Raul",14.60714286,56,37.60714286,"7","23",TRUE
+"192",363,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,1,"Capablanca, Jose Raul",46.97619048,42,"Alekhine, Alexander",31.30232558,43,78.27851606,"1","7",TRUE
+"193",364,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,2,"Alekhine, Alexander",9.666666667,18,"Capablanca, Jose Raul",11.52631579,19,21.19298246,"7","1",TRUE
+"194",365,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,3,"Capablanca, Jose Raul",26.6097561,41,"Alekhine, Alexander",50.17073171,41,76.7804878,"1","7",TRUE
+"195",366,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,4,"Alekhine, Alexander",8.479166667,48,"Capablanca, Jose Raul",7.142857143,49,15.62202381,"7","1",TRUE
+"196",367,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,5,"Capablanca, Jose Raul",7.12195122,41,"Alekhine, Alexander",6.682926829,41,13.80487805,"1","7",TRUE
+"197",368,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,6,"Alekhine, Alexander",8.076923077,39,"Capablanca, Jose Raul",7.820512821,39,15.8974359,"7","1",TRUE
+"198",369,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,7,"Capablanca, Jose Raul",16.45714286,35,"Alekhine, Alexander",28.54285714,35,45,"1","7",TRUE
+"199",370,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,8,"Alekhine, Alexander",8.414634146,41,"Capablanca, Jose Raul",7.80952381,42,16.22415796,"7","1",TRUE
+"200",371,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,9,"Capablanca, Jose Raul",9.363636364,33,"Alekhine, Alexander",7.676470588,34,17.04010695,"1","7",TRUE
+"201",372,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,10,"Alekhine, Alexander",17.47368421,19,"Capablanca, Jose Raul",14.7,20,32.17368421,"7","1",TRUE
+"202",373,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,11,"Capablanca, Jose Raul",49.16923077,65,"Alekhine, Alexander",32.48484848,66,81.65407925,"1","7",TRUE
+"203",374,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,12,"Alekhine, Alexander",21.975,40,"Capablanca, Jose Raul",31.225,40,53.2,"7","1",TRUE
+"204",375,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,13,"Capablanca, Jose Raul",15.57692308,26,"Alekhine, Alexander",13.18518519,27,28.76210826,"1","7",TRUE
+"205",376,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,14,"Alekhine, Alexander",11.70833333,24,"Capablanca, Jose Raul",10.88,25,22.58833333,"7","1",TRUE
+"206",377,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,15,"Capablanca, Jose Raul",13.55172414,29,"Alekhine, Alexander",13.34482759,29,26.89655172,"1","7",TRUE
+"207",378,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,16,"Alekhine, Alexander",12,23,"Capablanca, Jose Raul",12.95652174,23,24.95652174,"7","1",TRUE
+"208",379,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,17,"Capablanca, Jose Raul",12.13793103,58,"Alekhine, Alexander",11.62711864,59,23.76504968,"1","7",TRUE
+"209",380,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,18,"Alekhine, Alexander",14.62962963,27,"Capablanca, Jose Raul",11.74074074,27,26.37037037,"7","1",TRUE
+"210",381,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,19,"Capablanca, Jose Raul",15.05,20,"Alekhine, Alexander",13.38095238,21,28.43095238,"1","7",TRUE
+"211",382,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,20,"Alekhine, Alexander",10.0952381,42,"Capablanca, Jose Raul",9.395348837,43,19.49058693,"7","1",TRUE
+"212",383,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,21,"Capablanca, Jose Raul",43.29032258,31,"Alekhine, Alexander",17.78125,32,61.07157258,"1","7",TRUE
+"213",384,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,22,"Alekhine, Alexander",13.27058824,85,"Capablanca, Jose Raul",12.6627907,86,25.93337893,"7","1",TRUE
+"214",385,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,23,"Capablanca, Jose Raul",11.27659574,47,"Alekhine, Alexander",10.12765957,47,21.40425532,"1","7",TRUE
+"215",386,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,24,"Alekhine, Alexander",13.725,40,"Capablanca, Jose Raul",12.875,40,26.6,"7","1",TRUE
+"216",387,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,25,"Capablanca, Jose Raul",12.1025641,39,"Alekhine, Alexander",12.225,40,24.3275641,"1","7",TRUE
+"217",388,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,26,"Alekhine, Alexander",9.80952381,21,"Capablanca, Jose Raul",8.285714286,21,18.0952381,"7","1",TRUE
+"218",389,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,27,"Capablanca, Jose Raul",31.83783784,37,"Alekhine, Alexander",30.18421053,38,62.02204836,"1","7",TRUE
+"219",390,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,28,"Alekhine, Alexander",13.35714286,42,"Capablanca, Jose Raul",11.0952381,42,24.45238095,"7","1",TRUE
+"220",391,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,29,"Capablanca, Jose Raul",11.1884058,69,"Alekhine, Alexander",23.33333333,69,34.52173913,"1","7",TRUE
+"221",392,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,30,"Alekhine, Alexander",9.948717949,39,"Capablanca, Jose Raul",8.4,40,18.34871795,"7","1",TRUE
+"222",393,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,31,"Capablanca, Jose Raul",24.43902439,41,"Alekhine, Alexander",23.82926829,41,48.26829268,"1","7",TRUE
+"223",394,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,32,"Alekhine, Alexander",16,62,"Capablanca, Jose Raul",24.0483871,62,40.0483871,"7","1",TRUE
+"224",395,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,33,"Capablanca, Jose Raul",17.82352941,17,"Alekhine, Alexander",14.88888889,18,32.7124183,"1","7",TRUE
+"225",396,"lichess_study_1927-world-championship-capablanca-alekhine_by_Lichess_2021.11.29.pgn",1927,34,"Alekhine, Alexander",19.38271605,81,"Capablanca, Jose Raul",28.38271605,81,47.7654321,"7","1",TRUE
+"226",953,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,1,"Alekhine, Alexander",17.92,25,"Bogoljubow, Efim",49.8,25,67.72,"4","1",TRUE
+"227",954,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,2,"Bogoljubow, Efim",22.7,50,"Alekhine, Alexander",20.36,50,43.06,"1","4",TRUE
+"228",955,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,3,"Alekhine, Alexander",16.5942029,69,"Bogoljubow, Efim",15.52857143,70,32.12277433,"4","1",TRUE
+"229",956,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,4,"Bogoljubow, Efim",18.94594595,37,"Alekhine, Alexander",41.2972973,37,60.24324324,"1","4",TRUE
+"230",957,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,5,"Alekhine, Alexander",13.46808511,47,"Bogoljubow, Efim",34.27659574,47,47.74468085,"4","1",TRUE
+"231",958,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,6,"Bogoljubow, Efim",17.85106383,47,"Alekhine, Alexander",34.08510638,47,51.93617021,"1","4",TRUE
+"232",959,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,7,"Alekhine, Alexander",23.47058824,34,"Bogoljubow, Efim",40.82352941,34,64.29411765,"4","1",TRUE
+"233",960,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,8,"Bogoljubow, Efim",55.34482759,29,"Alekhine, Alexander",24.24137931,29,79.5862069,"1","4",TRUE
+"234",961,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,9,"Alekhine, Alexander",11.79310345,29,"Bogoljubow, Efim",9.166666667,30,20.95977011,"4","1",TRUE
+"235",962,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,10,"Bogoljubow, Efim",37.18367347,49,"Alekhine, Alexander",17.14285714,49,54.32653061,"1","4",TRUE
+"236",963,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,11,"Alekhine, Alexander",33.41935484,62,"Bogoljubow, Efim",32.06349206,63,65.4828469,"4","1",TRUE
+"237",964,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,12,"Bogoljubow, Efim",33.12727273,55,"Alekhine, Alexander",27.125,56,60.25227273,"1","4",TRUE
+"238",965,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,13,"Alekhine, Alexander",29.93939394,33,"Bogoljubow, Efim",8.529411765,34,38.4688057,"4","1",TRUE
+"239",966,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,14,"Bogoljubow, Efim",15.04285714,70,"Alekhine, Alexander",28.67142857,70,43.71428571,"1","4",TRUE
+"240",967,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,15,"Alekhine, Alexander",20.39534884,43,"Bogoljubow, Efim",19.22727273,44,39.62262156,"4","1",TRUE
+"241",968,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,16,"Bogoljubow, Efim",36.55932203,59,"Alekhine, Alexander",17.75,60,54.30932203,"1","4",TRUE
+"242",969,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,17,"Alekhine, Alexander",20.42424242,33,"Bogoljubow, Efim",50.36363636,33,70.78787879,"4","1",TRUE
+"243",970,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,18,"Bogoljubow, Efim",19.22,50,"Alekhine, Alexander",35.8,50,55.02,"1","4",TRUE
+"244",971,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,19,"Alekhine, Alexander",24.92105263,76,"Bogoljubow, Efim",36,76,60.92105263,"4","1",TRUE
+"245",972,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,20,"Bogoljubow, Efim",36.31914894,47,"Alekhine, Alexander",35.31914894,47,71.63829787,"1","4",TRUE
+"246",973,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,21,"Alekhine, Alexander",20.9375,48,"Bogoljubow, Efim",36.83333333,48,57.77083333,"4","1",TRUE
+"247",974,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,22,"Bogoljubow, Efim",38.21052632,38,"Alekhine, Alexander",10.58974359,39,48.80026991,"1","4",TRUE
+"248",975,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,23,"Alekhine, Alexander",16.3902439,82,"Bogoljubow, Efim",14.62195122,82,31.01219512,"4","1",TRUE
+"249",976,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,24,"Bogoljubow, Efim",18.81081081,37,"Alekhine, Alexander",15.76315789,38,34.57396871,"1","4",TRUE
+"250",977,"lichess_study_1929-world-championship-alekhine-bogoljubow_by_Lichess_2021.11.29.pgn",1929,25,"Alekhine, Alexander",20.7962963,54,"Bogoljubow, Efim",19.72727273,55,40.52356902,"4","1",TRUE
+"251",477,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,1,"Bogoljubow, Efim",20.703125,64,"Alekhine, Alexander",20.69230769,65,41.39543269,"1","4",TRUE
+"252",478,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,2,"Alekhine, Alexander",14.44444444,36,"Bogoljubow, Efim",37.25,36,51.69444444,"4","1",TRUE
+"253",479,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,3,"Bogoljubow, Efim",29.07692308,26,"Alekhine, Alexander",30.22222222,27,59.2991453,"1","4",TRUE
+"254",480,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,4,"Alekhine, Alexander",27.9,60,"Bogoljubow, Efim",41.28333333,60,69.18333333,"4","1",TRUE
+"255",481,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,5,"Bogoljubow, Efim",17.04,50,"Alekhine, Alexander",16.7,50,33.74,"1","4",TRUE
+"256",482,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,6,"Alekhine, Alexander",28.15254237,59,"Bogoljubow, Efim",26.68333333,60,54.83587571,"4","1",TRUE
+"257",483,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,7,"Bogoljubow, Efim",23.25,16,"Alekhine, Alexander",21.17647059,17,44.42647059,"1","4",TRUE
+"258",484,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,8,"Alekhine, Alexander",32.53968254,63,"Bogoljubow, Efim",34.44444444,63,66.98412698,"4","1",TRUE
+"259",485,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,9,"Bogoljubow, Efim",38.88888889,45,"Alekhine, Alexander",21.02173913,46,59.91062802,"1","4",TRUE
+"260",486,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,10,"Alekhine, Alexander",37.2,80,"Bogoljubow, Efim",29.49382716,81,66.69382716,"4","1",TRUE
+"261",487,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,11,"Bogoljubow, Efim",35.62295082,61,"Alekhine, Alexander",21.0483871,62,56.67133792,"1","4",TRUE
+"262",488,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,12,"Alekhine, Alexander",30.83783784,74,"Bogoljubow, Efim",30.78378378,74,61.62162162,"4","1",TRUE
+"263",489,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,13,"Bogoljubow, Efim",19.02739726,73,"Alekhine, Alexander",19.23287671,73,38.26027397,"1","4",TRUE
+"264",490,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,14,"Alekhine, Alexander",12.86792453,53,"Bogoljubow, Efim",10.71698113,53,23.58490566,"4","1",TRUE
+"265",491,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,15,"Bogoljubow, Efim",34.42028986,69,"Alekhine, Alexander",34.91304348,69,69.33333333,"1","4",TRUE
+"266",492,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,16,"Alekhine, Alexander",19.19047619,42,"Bogoljubow, Efim",35.76190476,42,54.95238095,"4","1",TRUE
+"267",493,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,17,"Bogoljubow, Efim",55.05,40,"Alekhine, Alexander",36.80487805,41,91.85487805,"1","4",TRUE
+"268",494,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,18,"Alekhine, Alexander",13.03703704,27,"Bogoljubow, Efim",13.42857143,28,26.46560847,"4","1",TRUE
+"269",495,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,19,"Bogoljubow, Efim",21.14035088,57,"Alekhine, Alexander",18.78947368,57,39.92982456,"1","4",TRUE
+"270",496,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,20,"Alekhine, Alexander",25.02325581,43,"Bogoljubow, Efim",24.75,44,49.77325581,"4","1",TRUE
+"271",497,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,21,"Bogoljubow, Efim",48.67741935,62,"Alekhine, Alexander",32.57142857,63,81.24884793,"1","4",TRUE
+"272",498,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,22,"Alekhine, Alexander",6.951219512,41,"Bogoljubow, Efim",6.219512195,41,13.17073171,"4","1",TRUE
+"273",499,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,23,"Bogoljubow, Efim",43.40350877,57,"Alekhine, Alexander",57.84210526,57,101.245614,"1","4",TRUE
+"274",500,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,24,"Alekhine, Alexander",36.34210526,38,"Bogoljubow, Efim",12.28205128,39,48.62415655,"4","1",TRUE
+"275",501,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,25,"Bogoljubow, Efim",46.11627907,43,"Alekhine, Alexander",22.06818182,44,68.18446089,"1","4",TRUE
+"276",502,"lichess_study_1934-world-championship-alekhine-bogoljubow-ii_by_Lichess_2021.11.29.pgn",1934,26,"Alekhine, Alexander",21.82608696,23,"Bogoljubow, Efim",26.13043478,23,47.95652174,"4","1",TRUE
+"277",530,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,1,"Alekhine, Alexander",8.827586207,29,"Euwe, Max",38.10344828,29,46.93103448,"11","1",TRUE
+"278",531,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,2,"Euwe, Max",34.56818182,44,"Alekhine, Alexander",47.79545455,44,82.36363636,"1","11",TRUE
+"279",532,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,3,"Alekhine, Alexander",46.225,40,"Euwe, Max",62.45,40,108.675,"11","1",TRUE
+"280",533,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,4,"Euwe, Max",35.79069767,43,"Alekhine, Alexander",23.38636364,44,59.17706131,"1","11",TRUE
+"281",534,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,5,"Alekhine, Alexander",11.75757576,33,"Euwe, Max",10.94117647,34,22.69875223,"11","1",TRUE
+"282",535,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,6,"Euwe, Max",25.33333333,72,"Alekhine, Alexander",24.97222222,72,50.30555556,"1","11",TRUE
+"283",536,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,7,"Alekhine, Alexander",27.92307692,39,"Euwe, Max",39.1025641,39,67.02564103,"11","1",TRUE
+"284",537,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,8,"Euwe, Max",16.69117647,68,"Alekhine, Alexander",21.38235294,68,38.07352941,"1","11",TRUE
+"285",538,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,9,"Alekhine, Alexander",25.5,40,"Euwe, Max",40.425,40,65.925,"11","1",TRUE
+"286",539,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,10,"Euwe, Max",24.55,40,"Alekhine, Alexander",46.3,40,70.85,"1","11",TRUE
+"287",540,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,11,"Alekhine, Alexander",11.65517241,29,"Euwe, Max",10.76666667,30,22.42183908,"11","1",TRUE
+"288",541,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,12,"Euwe, Max",27,35,"Alekhine, Alexander",51.48571429,35,78.48571429,"1","11",TRUE
+"289",542,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,13,"Alekhine, Alexander",36.48275862,58,"Euwe, Max",35.81034483,58,72.29310345,"11","1",TRUE
+"290",543,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,14,"Euwe, Max",42.575,40,"Alekhine, Alexander",66.15,40,108.725,"1","11",TRUE
+"291",544,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,15,"Alekhine, Alexander",31.21666667,60,"Euwe, Max",30.8852459,61,62.10191257,"11","1",TRUE
+"292",545,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,16,"Euwe, Max",28.9375,64,"Alekhine, Alexander",20.04615385,65,48.98365385,"1","11",TRUE
+"293",546,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,17,"Alekhine, Alexander",11.18181818,22,"Euwe, Max",8.272727273,22,19.45454545,"11","1",TRUE
+"294",547,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,18,"Euwe, Max",16.06666667,15,"Alekhine, Alexander",13.33333333,15,29.4,"1","11",TRUE
+"295",548,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,19,"Alekhine, Alexander",17,56,"Euwe, Max",29.76785714,56,46.76785714,"11","1",TRUE
+"296",549,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,20,"Euwe, Max",22.525,40,"Alekhine, Alexander",28.975,40,51.5,"1","11",TRUE
+"297",550,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,21,"Alekhine, Alexander",28.58974359,39,"Euwe, Max",18.4,40,46.98974359,"11","1",TRUE
+"298",551,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,22,"Euwe, Max",13.52941176,17,"Alekhine, Alexander",15.94117647,17,29.47058824,"1","11",TRUE
+"299",552,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,23,"Alekhine, Alexander",24.36842105,57,"Euwe, Max",25.52631579,57,49.89473684,"11","1",TRUE
+"300",553,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,24,"Euwe, Max",25.1875,32,"Alekhine, Alexander",25.75,32,50.9375,"1","11",TRUE
+"301",554,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,25,"Alekhine, Alexander",37.43181818,44,"Euwe, Max",18.24444444,45,55.67626263,"11","1",TRUE
+"302",555,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,26,"Euwe, Max",23.02173913,46,"Alekhine, Alexander",34.13043478,46,57.15217391,"1","11",TRUE
+"303",556,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,27,"Alekhine, Alexander",21.1,40,"Euwe, Max",30.4,40,51.5,"11","1",TRUE
+"304",557,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,28,"Euwe, Max",18.69354839,62,"Alekhine, Alexander",15.46774194,62,34.16129032,"1","11",TRUE
+"305",558,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,29,"Alekhine, Alexander",9.551020408,49,"Euwe, Max",9.34,50,18.89102041,"11","1",TRUE
+"306",559,"lichess_study_1935-world-championship-alekhine-euwe_by_Lichess_2021.11.29.pgn",1935,30,"Euwe, Max",29.94871795,39,"Alekhine, Alexander",42.20512821,39,72.15384615,"1","11",TRUE
+"307",338,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,1,"Euwe, Max",17.48979592,49,"Alekhine, Alexander",35.55102041,49,53.04081633,"1","11",TRUE
+"308",339,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,2,"Alekhine, Alexander",23.675,40,"Euwe, Max",37.5,40,61.175,"11","1",TRUE
+"309",340,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,3,"Euwe, Max",14.52542373,59,"Alekhine, Alexander",13.61666667,60,28.1420904,"1","11",TRUE
+"310",341,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,4,"Alekhine, Alexander",17.5,26,"Euwe, Max",11.73076923,26,29.23076923,"11","1",TRUE
+"311",342,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,5,"Euwe, Max",23.55,40,"Alekhine, Alexander",39.4,40,62.95,"1","11",TRUE
+"312",343,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,6,"Alekhine, Alexander",45.5,22,"Euwe, Max",69.59090909,22,115.0909091,"11","1",TRUE
+"313",344,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,7,"Euwe, Max",44.6969697,33,"Alekhine, Alexander",14.91176471,34,59.6087344,"1","11",TRUE
+"314",345,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,8,"Alekhine, Alexander",11.48,25,"Euwe, Max",48.48,25,59.96,"11","1",TRUE
+"315",346,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,9,"Euwe, Max",17.9,40,"Alekhine, Alexander",16.65,40,34.55,"1","11",TRUE
+"316",347,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,10,"Alekhine, Alexander",25.38461538,39,"Euwe, Max",47.8974359,39,73.28205128,"11","1",TRUE
+"317",348,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,11,"Euwe, Max",17.37931034,29,"Alekhine, Alexander",15.9,30,33.27931034,"1","11",TRUE
+"318",349,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,12,"Alekhine, Alexander",8.24,25,"Euwe, Max",6.28,25,14.52,"11","1",TRUE
+"319",350,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,13,"Euwe, Max",24.92537313,67,"Alekhine, Alexander",30.73134328,67,55.65671642,"1","11",TRUE
+"320",351,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,14,"Alekhine, Alexander",29.2745098,51,"Euwe, Max",36.41176471,51,65.68627451,"11","1",TRUE
+"321",352,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,15,"Euwe, Max",8.213114754,61,"Alekhine, Alexander",7.918032787,61,16.13114754,"1","11",TRUE
+"322",353,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,16,"Alekhine, Alexander",25.140625,64,"Euwe, Max",23.140625,64,48.28125,"11","1",TRUE
+"323",354,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,17,"Euwe, Max",10.875,40,"Alekhine, Alexander",26.65,40,37.525,"1","11",TRUE
+"324",355,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,18,"Alekhine, Alexander",9.84,50,"Euwe, Max",9.74,50,19.58,"11","1",TRUE
+"325",356,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,19,"Euwe, Max",37.52083333,48,"Alekhine, Alexander",35.83333333,48,73.35416667,"1","11",TRUE
+"326",357,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,20,"Alekhine, Alexander",17.1,40,"Euwe, Max",15.55,40,32.65,"11","1",TRUE
+"327",358,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,21,"Euwe, Max",49.58064516,31,"Alekhine, Alexander",34.25,32,83.83064516,"1","11",TRUE
+"328",359,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,22,"Alekhine, Alexander",19.8852459,61,"Euwe, Max",28.24590164,61,48.13114754,"11","1",TRUE
+"329",360,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,23,"Euwe, Max",21.46938776,49,"Alekhine, Alexander",19.6,50,41.06938776,"1","11",TRUE
+"330",361,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,24,"Alekhine, Alexander",19.25,40,"Euwe, Max",29.75,40,49,"11","1",TRUE
+"331",362,"lichess_study_1937-world-championship-alekhine-euwe-ii_by_Lichess_2021.11.29.pgn",1937,25,"Euwe, Max",39.45238095,42,"Alekhine, Alexander",24.13953488,43,63.59191584,"1","11",TRUE
+"332",142,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,1,"Smyslov, Vassily",9.941176471,51,"Reshevsky, Samuel Herman",21.7254902,51,31.66666667,"29","32",TRUE
+"333",143,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,2,"Euwe, Max",56.58181818,55,"Keres, Paul",39.49090909,55,96.07272727,"20","11",TRUE
+"334",144,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,3,"Smyslov, Vassily",9.625,40,"Reshevsky, Samuel Herman",8.625,40,18.25,"29","32",TRUE
+"335",145,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,4,"Keres, Paul",15.96153846,26,"Smyslov, Vassily",51.73076923,26,67.69230769,"32","20",TRUE
+"336",146,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,5,"Botvinnik, Mikhail",21.51612903,31,"Euwe, Max",43.4516129,31,64.96774194,"11","5",TRUE
+"337",147,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,6,"Reshevsky, Samuel Herman",23.925,40,"Keres, Paul",42.175,40,66.1,"20","29",TRUE
+"338",148,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,7,"Smyslov, Vassily",17.48837209,43,"Botvinnik, Mikhail",17.81818182,44,35.30655391,"5","32",TRUE
+"339",149,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,8,"Euwe, Max",37.80487805,41,"Smyslov, Vassily",12.80952381,42,50.61440186,"32","11",TRUE
+"340",150,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,9,"Botvinnik, Mikhail",27.70967742,31,"Reshevsky, Samuel Herman",50.87096774,31,78.58064516,"29","5",TRUE
+"341",151,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,10,"Keres, Paul",29.19298246,57,"Botvinnik, Mikhail",17.81034483,58,47.00332728,"5","20",TRUE
+"342",152,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,11,"Reshevsky, Samuel Herman",26.75,40,"Euwe, Max",34.29268293,41,61.04268293,"11","29",TRUE
+"343",153,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,12,"Keres, Paul",29.78787879,33,"Euwe, Max",26.57575758,33,56.36363636,"11","20",TRUE
+"344",154,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,13,"Reshevsky, Samuel Herman",14.59090909,44,"Smyslov, Vassily",13.61363636,44,28.20454545,"32","29",TRUE
+"345",155,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,14,"Euwe, Max",13.07692308,39,"Botvinnik, Mikhail",11.525,40,24.60192308,"5","11",TRUE
+"346",156,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,15,"Smyslov, Vassily",34.66071429,56,"Keres, Paul",20.22807018,57,54.88878446,"20","32",TRUE
+"347",157,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,16,"Botvinnik, Mikhail",16.65384615,78,"Smyslov, Vassily",17.89873418,79,34.55258033,"32","5",TRUE
+"348",158,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,17,"Keres, Paul",13.69565217,23,"Reshevsky, Samuel Herman",10.2173913,23,23.91304348,"29","20",TRUE
+"349",159,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,18,"Reshevsky, Samuel Herman",43.78125,32,"Botvinnik, Mikhail",41.45454545,33,85.23579545,"5","29",TRUE
+"350",160,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,19,"Smyslov, Vassily",25.30434783,69,"Euwe, Max",36.69565217,69,62,"11","32",TRUE
+"351",161,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,20,"Botvinnik, Mikhail",22.90909091,22,"Keres, Paul",63.13636364,22,86.04545455,"20","5",TRUE
+"352",162,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,21,"Euwe, Max",32.03571429,56,"Reshevsky, Samuel Herman",31.16071429,56,63.19642857,"29","11",TRUE
+"353",163,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,22,"Euwe, Max",63.83333333,24,"Keres, Paul",21.88,25,85.71333333,"20","11",TRUE
+"354",164,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,23,"Keres, Paul",8.170731707,41,"Smyslov, Vassily",7.023809524,42,15.19454123,"32","20",TRUE
+"355",165,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,24,"Botvinnik, Mikhail",20.68571429,35,"Euwe, Max",36.82857143,35,57.51428571,"11","5",TRUE
+"356",166,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,25,"Smyslov, Vassily",45.15,40,"Botvinnik, Mikhail",31.475,40,76.625,"5","32",TRUE
+"357",167,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,26,"Reshevsky, Samuel Herman",38.83870968,62,"Keres, Paul",22.93650794,63,61.77521761,"20","29",TRUE
+"358",168,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,27,"Euwe, Max",24.70731707,41,"Smyslov, Vassily",35.53658537,41,60.24390244,"32","11",TRUE
+"359",169,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,28,"Botvinnik, Mikhail",44.70731707,41,"Reshevsky, Samuel Herman",22.34146341,41,67.04878049,"29","5",TRUE
+"360",170,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,29,"Reshevsky, Samuel Herman",10.96,25,"Euwe, Max",8.807692308,26,19.76769231,"11","29",TRUE
+"361",171,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,30,"Keres, Paul",33.77464789,71,"Botvinnik, Mikhail",25.625,72,59.39964789,"5","20",TRUE
+"362",172,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,31,"Reshevsky, Samuel Herman",13.475,40,"Smyslov, Vassily",12.07317073,41,25.54817073,"32","29",TRUE
+"363",173,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,32,"Keres, Paul",21.66666667,33,"Euwe, Max",39.72727273,33,61.39393939,"11","20",TRUE
+"364",174,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,33,"Euwe, Max",14.5,28,"Botvinnik, Mikhail",10.57142857,28,25.07142857,"5","11",TRUE
+"365",175,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,34,"Smyslov, Vassily",24.025,40,"Keres, Paul",36.125,40,60.15,"20","32",TRUE
+"366",176,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,35,"Keres, Paul",32,40,"Reshevsky, Samuel Herman",14.725,40,46.725,"29","20",TRUE
+"367",177,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,36,"Botvinnik, Mikhail",12.56962025,79,"Smyslov, Vassily",12.575,80,25.14462025,"32","5",TRUE
+"368",178,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,37,"Smyslov, Vassily",11.16,25,"Euwe, Max",39,25,50.16,"11","32",TRUE
+"369",179,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,38,"Reshevsky, Samuel Herman",62.30434783,46,"Botvinnik, Mikhail",47.72340426,47,110.0277521,"5","29",TRUE
+"370",180,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,39,"Euwe, Max",31.87804878,41,"Reshevsky, Samuel Herman",15.19047619,42,47.06852497,"29","11",TRUE
+"371",181,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,40,"Botvinnik, Mikhail",24.81355932,59,"Keres, Paul",35.69491525,59,60.50847458,"20","5",TRUE
+"372",182,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,41,"Smyslov, Vassily",7.472222222,72,"Reshevsky, Samuel Herman",6.583333333,72,14.05555556,"29","32",TRUE
+"373",183,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,42,"Euwe, Max",52.11764706,34,"Keres, Paul",21.05714286,35,73.17478992,"20","11",TRUE
+"374",184,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,43,"Keres, Paul",9.958333333,48,"Smyslov, Vassily",9.666666667,48,19.625,"32","20",TRUE
+"375",185,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,44,"Botvinnik, Mikhail",10.38461538,13,"Euwe, Max",8,14,18.38461538,"11","5",TRUE
+"376",186,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,45,"Smyslov, Vassily",14.4375,16,"Botvinnik, Mikhail",13.58823529,17,28.02573529,"5","32",TRUE
+"377",187,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,46,"Reshevsky, Samuel Herman",19.4,25,"Keres, Paul",18.38461538,26,37.78461538,"20","29",TRUE
+"378",188,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,47,"Euwe, Max",33.02702703,37,"Smyslov, Vassily",13.02631579,38,46.05334282,"32","11",TRUE
+"379",189,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,48,"Botvinnik, Mikhail",17.625,40,"Reshevsky, Samuel Herman",38.25,40,55.875,"29","5",TRUE
+"380",190,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,49,"Reshevsky, Samuel Herman",30.05714286,35,"Euwe, Max",51,35,81.05714286,"11","29",TRUE
+"381",191,"lichess_study_1948-world-championship-tournament_by_Lichess_2021.11.29.pgn",1948,50,"Keres, Paul",21.23684211,38,"Botvinnik, Mikhail",37.55263158,38,58.78947368,"5","20",TRUE
+"382",861,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,1,"Botvinnik, Mikhail",15.75,28,"Bronstein, David I",15.07142857,28,30.82142857,"6","5",TRUE
+"383",862,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,2,"Bronstein, David I",20.95833333,48,"Botvinnik, Mikhail",20.10416667,48,41.0625,"5","6",TRUE
+"384",863,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,3,"Botvinnik, Mikhail",11.22580645,62,"Bronstein, David I",9.253968254,63,20.47977471,"6","5",TRUE
+"385",864,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,4,"Bronstein, David I",14.19565217,46,"Botvinnik, Mikhail",13.82978723,47,28.02543941,"5","6",TRUE
+"386",865,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,5,"Botvinnik, Mikhail",39.5,38,"Bronstein, David I",13.61538462,39,53.11538462,"6","5",TRUE
+"387",866,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,6,"Bronstein, David I",20.82142857,56,"Botvinnik, Mikhail",11.92982456,57,32.75125313,"5","6",TRUE
+"388",867,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,7,"Botvinnik, Mikhail",18.01538462,65,"Bronstein, David I",26.38461538,65,44.4,"6","5",TRUE
+"389",868,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,8,"Bronstein, David I",11.325,40,"Botvinnik, Mikhail",10.65,40,21.975,"5","6",TRUE
+"390",869,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,9,"Botvinnik, Mikhail",26.3,40,"Bronstein, David I",27.3902439,41,53.6902439,"6","5",TRUE
+"391",870,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,10,"Bronstein, David I",37.13207547,53,"Botvinnik, Mikhail",36.24074074,54,73.37281621,"5","6",TRUE
+"392",871,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,11,"Botvinnik, Mikhail",38.05263158,38,"Bronstein, David I",17.79487179,39,55.84750337,"6","5",TRUE
+"393",872,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,12,"Bronstein, David I",33.02564103,39,"Botvinnik, Mikhail",22.025,40,55.05064103,"5","6",TRUE
+"394",873,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,13,"Botvinnik, Mikhail",8.290909091,55,"Bronstein, David I",7.910714286,56,16.20162338,"6","5",TRUE
+"395",874,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,14,"Bronstein, David I",15.06153846,65,"Botvinnik, Mikhail",14.86153846,65,29.92307692,"5","6",TRUE
+"396",875,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,15,"Botvinnik, Mikhail",22.0625,32,"Bronstein, David I",19.78125,32,41.84375,"6","5",TRUE
+"397",876,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,16,"Bronstein, David I",37.28378378,74,"Botvinnik, Mikhail",37.77027027,74,75.05405405,"5","6",TRUE
+"398",877,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,17,"Botvinnik, Mikhail",46.23529412,34,"Bronstein, David I",15.08571429,35,61.3210084,"6","5",TRUE
+"399",878,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,18,"Bronstein, David I",20.43859649,57,"Botvinnik, Mikhail",20.80701754,57,41.24561404,"5","6",TRUE
+"400",879,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,19,"Botvinnik, Mikhail",12.84745763,59,"Bronstein, David I",21.33898305,59,34.18644068,"6","5",TRUE
+"401",880,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,20,"Bronstein, David I",7.644444444,45,"Botvinnik, Mikhail",7.222222222,45,14.86666667,"5","6",TRUE
+"402",881,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,21,"Botvinnik, Mikhail",30.88888889,63,"Bronstein, David I",21.0625,64,51.95138889,"6","5",TRUE
+"403",882,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,22,"Bronstein, David I",16.54054054,37,"Botvinnik, Mikhail",40.40540541,37,56.94594595,"5","6",TRUE
+"404",883,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,23,"Botvinnik, Mikhail",16.48214286,56,"Bronstein, David I",19.10714286,56,35.58928571,"6","5",TRUE
+"405",884,"lichess_study_1951-world-championship-botvinnik-bronstein_by_Lichess_2021.11.29.pgn",1951,24,"Bronstein, David I",16.9047619,21,"Botvinnik, Mikhail",11.76190476,21,28.66666667,"5","6",TRUE
+"406",560,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,1,"Smyslov, Vassily",28.94736842,57,"Botvinnik, Mikhail",19.32758621,58,48.27495463,"5","32",TRUE
+"407",561,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,2,"Botvinnik, Mikhail",21.82758621,29,"Smyslov, Vassily",38.5862069,29,60.4137931,"32","5",TRUE
+"408",562,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,3,"Smyslov, Vassily",23.275,40,"Botvinnik, Mikhail",26.575,40,49.85,"5","32",TRUE
+"409",563,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,4,"Botvinnik, Mikhail",35.78333333,60,"Smyslov, Vassily",48.35,60,84.13333333,"32","5",TRUE
+"410",564,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,5,"Smyslov, Vassily",12.925,40,"Botvinnik, Mikhail",13.325,40,26.25,"5","32",TRUE
+"411",565,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,6,"Botvinnik, Mikhail",9.242424242,33,"Smyslov, Vassily",9.121212121,33,18.36363636,"32","5",TRUE
+"412",566,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,7,"Smyslov, Vassily",17.73469388,49,"Botvinnik, Mikhail",27.57142857,49,45.30612245,"5","32",TRUE
+"413",567,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,8,"Botvinnik, Mikhail",13.89795918,49,"Smyslov, Vassily",12.84,50,26.73795918,"32","5",TRUE
+"414",568,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,9,"Smyslov, Vassily",26.20833333,24,"Botvinnik, Mikhail",51.16666667,24,77.375,"5","32",TRUE
+"415",569,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,10,"Botvinnik, Mikhail",41.77777778,36,"Smyslov, Vassily",23.67567568,37,65.45345345,"32","5",TRUE
+"416",570,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,11,"Smyslov, Vassily",10.7,40,"Botvinnik, Mikhail",25.53658537,41,36.23658537,"5","32",TRUE
+"417",571,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,12,"Botvinnik, Mikhail",6.972972973,37,"Smyslov, Vassily",17.97297297,37,24.94594595,"32","5",TRUE
+"418",572,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,13,"Smyslov, Vassily",33.475,40,"Botvinnik, Mikhail",18.97560976,41,52.45060976,"5","32",TRUE
+"419",573,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,14,"Botvinnik, Mikhail",46.0625,32,"Smyslov, Vassily",21.78787879,33,67.85037879,"32","5",TRUE
+"420",574,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,15,"Smyslov, Vassily",25.97142857,35,"Botvinnik, Mikhail",7.194444444,36,33.16587302,"5","32",TRUE
+"421",575,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,16,"Botvinnik, Mikhail",15.43181818,44,"Smyslov, Vassily",27.34090909,44,42.77272727,"32","5",TRUE
+"422",576,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,17,"Smyslov, Vassily",15.03333333,30,"Botvinnik, Mikhail",11.7,30,26.73333333,"5","32",TRUE
+"423",577,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,18,"Botvinnik, Mikhail",16.77192982,57,"Smyslov, Vassily",17.24561404,57,34.01754386,"32","5",TRUE
+"424",578,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,19,"Smyslov, Vassily",17.75,44,"Botvinnik, Mikhail",16.04545455,44,33.79545455,"5","32",TRUE
+"425",579,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,20,"Botvinnik, Mikhail",33.30985915,71,"Smyslov, Vassily",24.11111111,72,57.42097027,"32","5",TRUE
+"426",580,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,21,"Smyslov, Vassily",16.30769231,39,"Botvinnik, Mikhail",16.17948718,39,32.48717949,"5","32",TRUE
+"427",581,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,22,"Botvinnik, Mikhail",9.909090909,44,"Smyslov, Vassily",8.888888889,45,18.7979798,"32","5",TRUE
+"428",582,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,23,"Smyslov, Vassily",18.74074074,27,"Botvinnik, Mikhail",36.48148148,27,55.22222222,"5","32",TRUE
+"429",583,"lichess_study_1954-world-championship-botvinnik-smyslov_by_Lichess_2021.11.29.pgn",1954,24,"Botvinnik, Mikhail",12.71428571,21,"Smyslov, Vassily",22.5,22,35.21428571,"32","5",TRUE
+"430",76,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,1,"Botvinnik, Mikhail",23.5,40,"Smyslov, Vassily",16.775,40,40.275,"32","5",TRUE
+"431",77,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,2,"Smyslov, Vassily",10.75,44,"Botvinnik, Mikhail",10.82222222,45,21.57222222,"5","32",TRUE
+"432",78,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,3,"Botvinnik, Mikhail",7.1,40,"Smyslov, Vassily",6.15,40,13.25,"32","5",TRUE
+"433",79,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,4,"Smyslov, Vassily",49.6,40,"Botvinnik, Mikhail",34.05,40,83.65,"5","32",TRUE
+"434",80,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,5,"Botvinnik, Mikhail",23.39622642,53,"Smyslov, Vassily",36,53,59.39622642,"32","5",TRUE
+"435",81,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,6,"Smyslov, Vassily",12.2962963,27,"Botvinnik, Mikhail",27.81481481,27,40.11111111,"5","32",TRUE
+"436",82,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,7,"Botvinnik, Mikhail",9.818181818,22,"Smyslov, Vassily",8.173913043,23,17.99209486,"32","5",TRUE
+"437",83,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,8,"Smyslov, Vassily",16.8,40,"Botvinnik, Mikhail",26.65,40,43.45,"5","32",TRUE
+"438",84,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,9,"Botvinnik, Mikhail",79.05405405,37,"Smyslov, Vassily",75.84210526,38,154.8961593,"32","5",TRUE
+"439",85,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,10,"Smyslov, Vassily",27.02173913,46,"Botvinnik, Mikhail",35.53191489,47,62.55365402,"5","32",TRUE
+"440",86,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,11,"Botvinnik, Mikhail",8,22,"Smyslov, Vassily",7.47826087,23,15.47826087,"32","5",TRUE
+"441",87,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,12,"Smyslov, Vassily",25.61904762,42,"Botvinnik, Mikhail",29.6744186,43,55.29346622,"5","32",TRUE
+"442",88,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,13,"Botvinnik, Mikhail",20.475,40,"Smyslov, Vassily",31.5,40,51.975,"32","5",TRUE
+"443",89,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,14,"Smyslov, Vassily",25.08888889,45,"Botvinnik, Mikhail",24.4,45,49.48888889,"5","32",TRUE
+"444",90,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,15,"Botvinnik, Mikhail",30.76363636,55,"Smyslov, Vassily",29.58928571,56,60.35292208,"32","5",TRUE
+"445",91,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,16,"Smyslov, Vassily",9.648148148,54,"Botvinnik, Mikhail",10.23636364,55,19.88451178,"5","32",TRUE
+"446",92,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,17,"Botvinnik, Mikhail",20.58823529,68,"Smyslov, Vassily",14.55072464,69,35.13895993,"32","5",TRUE
+"447",93,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,18,"Smyslov, Vassily",16.52459016,61,"Botvinnik, Mikhail",15.03278689,61,31.55737705,"5","32",TRUE
+"448",94,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,19,"Botvinnik, Mikhail",12.78571429,14,"Smyslov, Vassily",9.866666667,15,22.65238095,"32","5",TRUE
+"449",95,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,20,"Smyslov, Vassily",12.70731707,41,"Botvinnik, Mikhail",20.02439024,41,32.73170732,"5","32",TRUE
+"450",96,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,21,"Botvinnik, Mikhail",10.58333333,12,"Smyslov, Vassily",7.692307692,13,18.27564103,"32","5",TRUE
+"451",97,"lichess_study_1957-world-championship-botvinnik-smyslov-ii_by_Lichess_2021.11.29.pgn",1957,22,"Smyslov, Vassily",16.5,10,"Botvinnik, Mikhail",12.6,10,29.1,"5","32",TRUE
+"452",439,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,1,"Smyslov, Vassily",30.27868852,61,"Botvinnik, Mikhail",19.06451613,62,49.34320465,"5","32",TRUE
+"453",440,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,2,"Botvinnik, Mikhail",34.75,40,"Smyslov, Vassily",45.65,40,80.4,"32","5",TRUE
+"454",441,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,3,"Smyslov, Vassily",21.43076923,65,"Botvinnik, Mikhail",16.63636364,66,38.06713287,"5","32",TRUE
+"455",442,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,4,"Botvinnik, Mikhail",25.56790123,81,"Smyslov, Vassily",24.09876543,81,49.66666667,"32","5",TRUE
+"456",443,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,5,"Smyslov, Vassily",11.25,40,"Botvinnik, Mikhail",37.35,40,48.6,"5","32",TRUE
+"457",444,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,6,"Botvinnik, Mikhail",15.89583333,48,"Smyslov, Vassily",20.91666667,48,36.8125,"32","5",TRUE
+"458",445,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,7,"Smyslov, Vassily",21.66666667,15,"Botvinnik, Mikhail",16.13333333,15,37.8,"5","32",TRUE
+"459",446,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,8,"Botvinnik, Mikhail",20.575,40,"Smyslov, Vassily",19.35,40,39.925,"32","5",TRUE
+"460",447,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,9,"Smyslov, Vassily",8.820512821,39,"Botvinnik, Mikhail",10.975,40,19.79551282,"5","32",TRUE
+"461",448,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,10,"Botvinnik, Mikhail",9.395348837,43,"Smyslov, Vassily",9.627906977,43,19.02325581,"32","5",TRUE
+"462",449,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,11,"Smyslov, Vassily",5.47826087,23,"Botvinnik, Mikhail",30.2173913,23,35.69565217,"5","32",TRUE
+"463",450,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,12,"Botvinnik, Mikhail",10.05,40,"Smyslov, Vassily",22,40,32.05,"32","5",TRUE
+"464",451,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,13,"Smyslov, Vassily",7.225,40,"Botvinnik, Mikhail",6.1,40,13.325,"5","32",TRUE
+"465",452,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,14,"Botvinnik, Mikhail",20.35820896,67,"Smyslov, Vassily",28.50746269,67,48.86567164,"32","5",TRUE
+"466",453,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,15,"Smyslov, Vassily",29.24074074,54,"Botvinnik, Mikhail",23.5,54,52.74074074,"5","32",TRUE
+"467",454,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,16,"Botvinnik, Mikhail",14.85714286,35,"Smyslov, Vassily",12.58333333,36,27.44047619,"32","5",TRUE
+"468",455,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,17,"Smyslov, Vassily",16.3125,48,"Botvinnik, Mikhail",16.40816327,49,32.72066327,"5","32",TRUE
+"469",456,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,18,"Botvinnik, Mikhail",51.08219178,73,"Smyslov, Vassily",52.87671233,73,103.9589041,"32","5",TRUE
+"470",457,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,19,"Smyslov, Vassily",18.64705882,34,"Botvinnik, Mikhail",42.08823529,34,60.73529412,"5","32",TRUE
+"471",458,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,20,"Botvinnik, Mikhail",17,47,"Smyslov, Vassily",16.61702128,47,33.61702128,"32","5",TRUE
+"472",459,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,21,"Smyslov, Vassily",14.59090909,22,"Botvinnik, Mikhail",10.54545455,22,25.13636364,"5","32",TRUE
+"473",460,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,22,"Botvinnik, Mikhail",31.45945946,37,"Smyslov, Vassily",13.52631579,38,44.98577525,"32","5",TRUE
+"474",461,"lichess_study_1958-world-championship-botvinnik-smyslov-iii_by_Lichess_2021.11.29.pgn",1958,23,"Smyslov, Vassily",30.05,40,"Botvinnik, Mikhail",24.575,40,54.625,"5","32",TRUE
+"475",604,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,1,"Tal, Mihail",20.77419355,31,"Botvinnik, Mikhail",43.93548387,31,64.70967742,"5","36",TRUE
+"476",605,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,2,"Botvinnik, Mikhail",13.86046512,43,"Tal, Mihail",13,44,26.86046512,"36","5",TRUE
+"477",606,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,3,"Tal, Mihail",16.19444444,36,"Botvinnik, Mikhail",14.86486486,37,31.05930931,"5","36",TRUE
+"478",607,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,4,"Botvinnik, Mikhail",12.94871795,39,"Tal, Mihail",12.425,40,25.37371795,"36","5",TRUE
+"479",608,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,5,"Tal, Mihail",20.69047619,42,"Botvinnik, Mikhail",16.64285714,42,37.33333333,"5","36",TRUE
+"480",609,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,6,"Botvinnik, Mikhail",48.06666667,45,"Tal, Mihail",36.2173913,46,84.28405797,"36","5",TRUE
+"481",610,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,7,"Tal, Mihail",12.82352941,51,"Botvinnik, Mikhail",25.07843137,51,37.90196078,"5","36",TRUE
+"482",611,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,8,"Botvinnik, Mikhail",33.925,40,"Tal, Mihail",40.05,40,73.975,"36","5",TRUE
+"483",612,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,9,"Tal, Mihail",24.64912281,57,"Botvinnik, Mikhail",14.70689655,58,39.35601936,"5","36",TRUE
+"484",613,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,10,"Botvinnik, Mikhail",20.27118644,59,"Tal, Mihail",18.59322034,59,38.86440678,"36","5",TRUE
+"485",614,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,11,"Tal, Mihail",21.29577465,71,"Botvinnik, Mikhail",27.98591549,71,49.28169014,"5","36",TRUE
+"486",615,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,12,"Botvinnik, Mikhail",19.84507042,71,"Tal, Mihail",19.375,72,39.22007042,"36","5",TRUE
+"487",616,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,13,"Tal, Mihail",18.06666667,15,"Botvinnik, Mikhail",10.26666667,15,28.33333333,"5","36",TRUE
+"488",617,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,14,"Botvinnik, Mikhail",12.42857143,21,"Tal, Mihail",10.36363636,22,22.79220779,"36","5",TRUE
+"489",618,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,15,"Tal, Mihail",23.025,40,"Botvinnik, Mikhail",21.3902439,41,44.4152439,"5","36",TRUE
+"490",619,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,16,"Botvinnik, Mikhail",16.775,40,"Tal, Mihail",15.7,40,32.475,"36","5",TRUE
+"491",620,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,17,"Tal, Mihail",39.025,40,"Botvinnik, Mikhail",57.625,40,96.65,"5","36",TRUE
+"492",621,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,18,"Botvinnik, Mikhail",7.973333333,75,"Tal, Mihail",7.355263158,76,15.32859649,"36","5",TRUE
+"493",622,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,19,"Tal, Mihail",22.8,40,"Botvinnik, Mikhail",32.7804878,41,55.5804878,"5","36",TRUE
+"494",623,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,20,"Botvinnik, Mikhail",16.11538462,26,"Tal, Mihail",15.59259259,27,31.70797721,"36","5",TRUE
+"495",624,"lichess_study_1960-world-championship-botvinnik-tal_by_Lichess_2021.11.29.pgn",1960,21,"Tal, Mihail",8.6875,16,"Botvinnik, Mikhail",10.23529412,17,18.92279412,"5","36",TRUE
+"496",672,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,1,"Botvinnik, Mikhail",10.725,40,"Tal, Mihail",20.025,40,30.75,"36","5",TRUE
+"497",673,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,2,"Tal, Mihail",13,44,"Botvinnik, Mikhail",18.86363636,44,31.86363636,"5","36",TRUE
+"498",674,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,3,"Botvinnik, Mikhail",19.42857143,42,"Tal, Mihail",31.47619048,42,50.9047619,"36","5",TRUE
+"499",675,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,4,"Tal, Mihail",31.925,40,"Botvinnik, Mikhail",33,41,64.925,"5","36",TRUE
+"500",676,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,5,"Botvinnik, Mikhail",12.65277778,72,"Tal, Mihail",12.43835616,73,25.09113394,"36","5",TRUE
+"501",677,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,6,"Tal, Mihail",21.20833333,24,"Botvinnik, Mikhail",23.16,25,44.36833333,"5","36",TRUE
+"502",678,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,7,"Botvinnik, Mikhail",17.46875,32,"Tal, Mihail",48.96875,32,66.4375,"36","5",TRUE
+"503",679,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,8,"Tal, Mihail",13.32142857,28,"Botvinnik, Mikhail",41.28571429,28,54.60714286,"5","36",TRUE
+"504",680,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,9,"Botvinnik, Mikhail",15.66666667,72,"Tal, Mihail",22.08333333,72,37.75,"36","5",TRUE
+"505",681,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,10,"Tal, Mihail",66.75609756,41,"Botvinnik, Mikhail",52.95238095,42,119.7084785,"5","36",TRUE
+"506",682,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,11,"Botvinnik, Mikhail",30.07317073,41,"Tal, Mihail",49.9047619,42,79.97793264,"36","5",TRUE
+"507",683,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,12,"Tal, Mihail",26.85,40,"Botvinnik, Mikhail",41.5,40,68.35,"5","36",TRUE
+"508",684,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,13,"Botvinnik, Mikhail",15.8,40,"Tal, Mihail",23.825,40,39.625,"36","5",TRUE
+"509",685,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,14,"Tal, Mihail",16.40625,32,"Botvinnik, Mikhail",14.125,32,30.53125,"5","36",TRUE
+"510",686,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,15,"Botvinnik, Mikhail",26.19354839,62,"Tal, Mihail",35.51612903,62,61.70967742,"36","5",TRUE
+"511",687,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,16,"Tal, Mihail",15.84269663,89,"Botvinnik, Mikhail",14.54444444,90,30.38714107,"5","36",TRUE
+"512",688,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,17,"Botvinnik, Mikhail",46.3902439,82,"Tal, Mihail",39.43373494,83,85.82397884,"36","5",TRUE
+"513",689,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,18,"Tal, Mihail",31.225,40,"Botvinnik, Mikhail",23.95121951,41,55.17621951,"5","36",TRUE
+"514",690,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,19,"Botvinnik, Mikhail",26.47297297,74,"Tal, Mihail",23.54666667,75,50.01963964,"36","5",TRUE
+"515",691,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,20,"Tal, Mihail",27.4040404,99,"Botvinnik, Mikhail",24.84,100,52.2440404,"5","36",TRUE
+"516",692,"lichess_study_1961-world-championship-botvinnik-tal-ii_by_Lichess_2021.11.29.pgn",1961,21,"Botvinnik, Mikhail",26.15625,32,"Tal, Mihail",55.9375,32,82.09375,"36","5",TRUE
+"517",978,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,1,"Petrosian, Tigran V",41.15384615,39,"Botvinnik, Mikhail",18.05,40,59.20384615,"5","28",TRUE
+"518",979,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,2,"Botvinnik, Mikhail",12.61764706,34,"Petrosian, Tigran V",11.37142857,35,23.98907563,"28","5",TRUE
+"519",980,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,3,"Petrosian, Tigran V",10.48235294,85,"Botvinnik, Mikhail",10.40697674,86,20.88932969,"5","28",TRUE
+"520",981,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,4,"Botvinnik, Mikhail",17.60869565,23,"Petrosian, Tigran V",14.16666667,24,31.77536232,"28","5",TRUE
+"521",982,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,5,"Petrosian, Tigran V",11.36170213,47,"Botvinnik, Mikhail",18.06382979,47,29.42553191,"5","28",TRUE
+"522",983,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,6,"Botvinnik, Mikhail",13.03846154,26,"Petrosian, Tigran V",11.14814815,27,24.18660969,"28","5",TRUE
+"523",984,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,7,"Petrosian, Tigran V",21.21568627,51,"Botvinnik, Mikhail",31.60784314,51,52.82352941,"5","28",TRUE
+"524",985,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,8,"Botvinnik, Mikhail",8.611111111,54,"Petrosian, Tigran V",7.055555556,54,15.66666667,"28","5",TRUE
+"525",986,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,9,"Petrosian, Tigran V",15.74074074,54,"Botvinnik, Mikhail",13.47272727,55,29.21346801,"5","28",TRUE
+"526",987,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,10,"Botvinnik, Mikhail",7.880952381,42,"Petrosian, Tigran V",7.11627907,43,14.99723145,"28","5",TRUE
+"527",988,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,11,"Petrosian, Tigran V",13.775,40,"Botvinnik, Mikhail",13.70731707,41,27.48231707,"5","28",TRUE
+"528",989,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,12,"Botvinnik, Mikhail",10.19230769,52,"Petrosian, Tigran V",8.596153846,52,18.78846154,"28","5",TRUE
+"529",990,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,13,"Petrosian, Tigran V",5.962264151,53,"Botvinnik, Mikhail",4.773584906,53,10.73584906,"5","28",TRUE
+"530",991,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,14,"Botvinnik, Mikhail",14.21428571,56,"Petrosian, Tigran V",24.39285714,56,38.60714286,"28","5",TRUE
+"531",992,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,15,"Petrosian, Tigran V",17.80701754,57,"Botvinnik, Mikhail",28.92982456,57,46.73684211,"5","28",TRUE
+"532",993,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,16,"Botvinnik, Mikhail",19.32075472,53,"Petrosian, Tigran V",20.22641509,53,39.54716981,"28","5",TRUE
+"533",994,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,17,"Petrosian, Tigran V",16.13157895,38,"Botvinnik, Mikhail",13.25641026,39,29.3879892,"5","28",TRUE
+"534",995,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,18,"Botvinnik, Mikhail",32.58333333,60,"Petrosian, Tigran V",23.18032787,61,55.7636612,"28","5",TRUE
+"535",996,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,19,"Petrosian, Tigran V",30.44615385,65,"Botvinnik, Mikhail",40.18461538,65,70.63076923,"5","28",TRUE
+"536",997,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,20,"Botvinnik, Mikhail",17.25,20,"Petrosian, Tigran V",8.761904762,21,26.01190476,"28","5",TRUE
+"537",998,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,21,"Petrosian, Tigran V",10.77777778,9,"Botvinnik, Mikhail",8.777777778,9,19.55555556,"5","28",TRUE
+"538",999,"lichess_study_1963-world-championship-botvinnik-petrosian_by_Lichess_2021.11.29.pgn",1963,22,"Botvinnik, Mikhail",16.33333333,9,"Petrosian, Tigran V",9.6,10,25.93333333,"28","5",TRUE
+"539",724,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,1,"Spassky, Boris V",10.16666667,36,"Petrosian, Tigran V",10.27777778,36,20.44444444,"28","33",TRUE
+"540",725,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,2,"Petrosian, Tigran V",7.510204082,49,"Spassky, Boris V",6.6,50,14.11020408,"33","28",TRUE
+"541",726,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,3,"Spassky, Boris V",18.5952381,42,"Petrosian, Tigran V",15.41860465,43,34.01384275,"28","33",TRUE
+"542",727,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,4,"Petrosian, Tigran V",12.48837209,43,"Spassky, Boris V",10.65116279,43,23.13953488,"33","28",TRUE
+"543",728,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,5,"Spassky, Boris V",15.07692308,78,"Petrosian, Tigran V",15.92405063,79,31.00097371,"28","33",TRUE
+"544",729,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,6,"Petrosian, Tigran V",14.28571429,14,"Spassky, Boris V",16.06666667,15,30.35238095,"33","28",TRUE
+"545",730,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,7,"Spassky, Boris V",30.45238095,42,"Petrosian, Tigran V",13.1627907,43,43.61517165,"28","33",TRUE
+"546",731,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,8,"Petrosian, Tigran V",11.95454545,22,"Spassky, Boris V",10.73913043,23,22.69367589,"33","28",TRUE
+"547",732,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,9,"Spassky, Boris V",14.32,25,"Petrosian, Tigran V",14.24,25,28.56,"28","33",TRUE
+"548",733,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,10,"Petrosian, Tigran V",16.37931034,29,"Spassky, Boris V",43.06896552,29,59.44827586,"33","28",TRUE
+"549",734,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,11,"Spassky, Boris V",16.08,25,"Petrosian, Tigran V",13.68,25,29.76,"28","33",TRUE
+"550",735,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,12,"Petrosian, Tigran V",29.02631579,38,"Spassky, Boris V",24.86842105,38,53.89473684,"33","28",TRUE
+"551",736,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,13,"Spassky, Boris V",24.1,90,"Petrosian, Tigran V",30.53846154,91,54.63846154,"28","33",TRUE
+"552",737,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,14,"Petrosian, Tigran V",15.78571429,56,"Spassky, Boris V",16.98214286,56,32.76785714,"33","28",TRUE
+"553",738,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,15,"Spassky, Boris V",19.37037037,54,"Petrosian, Tigran V",19.8,55,39.17037037,"28","33",TRUE
+"554",739,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,16,"Petrosian, Tigran V",15.22916667,48,"Spassky, Boris V",14.77083333,48,30,"33","28",TRUE
+"555",740,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,17,"Spassky, Boris V",13.92857143,28,"Petrosian, Tigran V",11.55172414,29,25.48029557,"28","33",TRUE
+"556",741,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,18,"Petrosian, Tigran V",33.53125,32,"Spassky, Boris V",29.15625,32,62.6875,"33","28",TRUE
+"557",742,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,19,"Spassky, Boris V",8.746268657,67,"Petrosian, Tigran V",14.91044776,67,23.65671642,"28","33",TRUE
+"558",743,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,20,"Petrosian, Tigran V",16.425,40,"Spassky, Boris V",26.875,40,43.3,"33","28",TRUE
+"559",744,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,21,"Spassky, Boris V",12.02631579,38,"Petrosian, Tigran V",12.61538462,39,24.6417004,"28","33",TRUE
+"560",745,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,22,"Petrosian, Tigran V",15.67647059,34,"Spassky, Boris V",35.97142857,35,51.64789916,"33","28",TRUE
+"561",746,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,23,"Spassky, Boris V",15.66666667,30,"Petrosian, Tigran V",35.22580645,31,50.89247312,"28","33",TRUE
+"562",747,"lichess_study_1966-world-championship-petrosian-spassky_by_Lichess_2021.11.29.pgn",1966,24,"Petrosian, Tigran V",21.67105263,76,"Spassky, Boris V",19.30263158,76,40.97368421,"33","28",TRUE
+"563",397,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,1,"Spassky, Boris V",28.89090909,55,"Petrosian, Tigran V",23.96428571,56,52.85519481,"28","33",TRUE
+"564",398,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,2,"Petrosian, Tigran V",10.1,60,"Spassky, Boris V",9.433333333,60,19.53333333,"33","28",TRUE
+"565",399,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,3,"Spassky, Boris V",6.571428571,42,"Petrosian, Tigran V",6.279069767,43,12.85049834,"28","33",TRUE
+"566",400,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,4,"Petrosian, Tigran V",35.925,40,"Spassky, Boris V",11.87804878,41,47.80304878,"33","28",TRUE
+"567",401,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,5,"Spassky, Boris V",28.5862069,29,"Petrosian, Tigran V",43.27586207,29,71.86206897,"28","33",TRUE
+"568",402,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,6,"Petrosian, Tigran V",7.413043478,46,"Spassky, Boris V",6.787234043,47,14.20027752,"33","28",TRUE
+"569",403,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,7,"Spassky, Boris V",13.88461538,26,"Petrosian, Tigran V",12.88461538,26,26.76923077,"28","33",TRUE
+"570",404,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,8,"Petrosian, Tigran V",31.79069767,43,"Spassky, Boris V",15.11363636,44,46.90433404,"33","28",TRUE
+"571",405,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,9,"Spassky, Boris V",20.9375,64,"Petrosian, Tigran V",20.04615385,65,40.98365385,"28","33",TRUE
+"572",406,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,10,"Petrosian, Tigran V",13.67567568,37,"Spassky, Boris V",26.13513514,37,39.81081081,"33","28",TRUE
+"573",407,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,11,"Spassky, Boris V",30.23636364,55,"Petrosian, Tigran V",14.36363636,55,44.6,"28","33",TRUE
+"574",408,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,12,"Petrosian, Tigran V",18.02083333,48,"Spassky, Boris V",17.33333333,48,35.35416667,"33","28",TRUE
+"575",409,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,13,"Spassky, Boris V",6.75,24,"Petrosian, Tigran V",6.25,24,13,"28","33",TRUE
+"576",410,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,14,"Petrosian, Tigran V",24.36363636,55,"Spassky, Boris V",23.32727273,55,47.69090909,"33","28",TRUE
+"577",411,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,15,"Spassky, Boris V",8.388888889,18,"Petrosian, Tigran V",5.894736842,19,14.28362573,"28","33",TRUE
+"578",412,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,16,"Petrosian, Tigran V",8.966666667,30,"Spassky, Boris V",8.580645161,31,17.54731183,"33","28",TRUE
+"579",413,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,17,"Spassky, Boris V",12.31578947,57,"Petrosian, Tigran V",19.61403509,57,31.92982456,"28","33",TRUE
+"580",414,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,18,"Petrosian, Tigran V",7.25862069,58,"Spassky, Boris V",5.948275862,58,13.20689655,"33","28",TRUE
+"581",415,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,19,"Spassky, Boris V",13.26086957,23,"Petrosian, Tigran V",44.43478261,23,57.69565217,"28","33",TRUE
+"582",416,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,20,"Petrosian, Tigran V",16.32653061,49,"Spassky, Boris V",21.20408163,49,37.53061224,"33","28",TRUE
+"583",417,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,21,"Spassky, Boris V",26.75,52,"Petrosian, Tigran V",42.23076923,52,68.98076923,"28","33",TRUE
+"584",418,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,22,"Petrosian, Tigran V",9.8,30,"Spassky, Boris V",10.19354839,31,19.99354839,"33","28",TRUE
+"585",419,"lichess_study_1969-world-championship-petrosian-spassky-ii_by_Lichess_2021.11.29.pgn",1969,23,"Spassky, Boris V",9.25,40,"Petrosian, Tigran V",18.9,40,28.15,"28","33",TRUE
+"586",1000,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,1,"Spassky, Boris V",13.09090909,55,"Fischer, Robert James",29.12727273,55,42.21818182,"12","33",TRUE
+"587",1001,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,3,"Spassky, Boris V",39.65,40,"Fischer, Robert James",15.80487805,41,55.45487805,"12","33",TRUE
+"588",1002,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,4,"Fischer, Robert James",16.40909091,44,"Spassky, Boris V",13.25,44,29.65909091,"33","12",TRUE
+"589",1003,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,5,"Spassky, Boris V",31.88461538,26,"Fischer, Robert James",4.037037037,27,35.92165242,"12","33",TRUE
+"590",1004,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,6,"Fischer, Robert James",14.225,40,"Spassky, Boris V",32.025,40,46.25,"33","12",TRUE
+"591",1005,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,7,"Spassky, Boris V",21.6875,48,"Fischer, Robert James",21.35416667,48,43.04166667,"12","33",TRUE
+"592",1006,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,8,"Fischer, Robert James",14.02777778,36,"Spassky, Boris V",26.19444444,36,40.22222222,"33","12",TRUE
+"593",1007,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,9,"Spassky, Boris V",14.17857143,28,"Fischer, Robert James",12.4137931,29,26.59236453,"12","33",TRUE
+"594",1008,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,10,"Fischer, Robert James",10.25454545,55,"Spassky, Boris V",19.10909091,55,29.36363636,"33","12",TRUE
+"595",1009,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,11,"Spassky, Boris V",11.66666667,30,"Fischer, Robert James",42.83333333,30,54.5,"12","33",TRUE
+"596",1010,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,12,"Fischer, Robert James",8.074074074,54,"Spassky, Boris V",8.363636364,55,16.43771044,"33","12",TRUE
+"597",1011,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,13,"Spassky, Boris V",49.16438356,73,"Fischer, Robert James",35.97297297,74,85.13735653,"12","33",TRUE
+"598",1012,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,14,"Fischer, Robert James",10.82051282,39,"Spassky, Boris V",9.075,40,19.89551282,"33","12",TRUE
+"599",1013,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,15,"Spassky, Boris V",27.71428571,42,"Fischer, Robert James",29.3255814,43,57.03986711,"12","33",TRUE
+"600",1014,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,16,"Fischer, Robert James",3.525423729,59,"Spassky, Boris V",3.333333333,60,6.858757062,"33","12",TRUE
+"601",1015,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,17,"Spassky, Boris V",10.61363636,44,"Fischer, Robert James",10.45454545,44,21.06818182,"12","33",TRUE
+"602",1016,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,18,"Fischer, Robert James",22.15217391,46,"Spassky, Boris V",19.53191489,47,41.68408881,"33","12",TRUE
+"603",1017,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,19,"Spassky, Boris V",12.12820513,39,"Fischer, Robert James",10.95,40,23.07820513,"12","33",TRUE
+"604",1018,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,20,"Fischer, Robert James",10.45283019,53,"Spassky, Boris V",9.814814815,54,20.267645,"33","12",TRUE
+"605",1019,"lichess_study_1972-world-championship-spassky-fischer_by_Lichess_2021.11.29.pgn",1972,21,"Spassky, Boris V",20.625,40,"Fischer, Robert James",10.325,40,30.95,"12","33",TRUE
+"606",921,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,1,"Kortschnoj, Viktor",6.352941176,17,"Karpov, Anatoly",3.888888889,18,10.24183007,"18","21",TRUE
+"607",922,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,2,"Karpov, Anatoly",11.14285714,28,"Kortschnoj, Viktor",9.285714286,28,20.42857143,"21","18",TRUE
+"608",923,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,3,"Kortschnoj, Viktor",12.03448276,29,"Karpov, Anatoly",12.53333333,30,24.56781609,"18","21",TRUE
+"609",924,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,4,"Karpov, Anatoly",16.83333333,18,"Kortschnoj, Viktor",14.44444444,18,31.27777778,"21","18",TRUE
+"610",925,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,5,"Kortschnoj, Viktor",23.72727273,99,"Karpov, Anatoly",23.05,100,46.77727273,"18","21",TRUE
+"611",926,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,6,"Karpov, Anatoly",12.59090909,22,"Kortschnoj, Viktor",8.636363636,22,21.22727273,"21","18",TRUE
+"612",927,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,7,"Kortschnoj, Viktor",34.48780488,41,"Karpov, Anatoly",32.51219512,41,67,"18","21",TRUE
+"613",928,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,8,"Karpov, Anatoly",12.55555556,27,"Kortschnoj, Viktor",47.62962963,27,60.18518519,"21","18",TRUE
+"614",929,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,9,"Kortschnoj, Viktor",7.65,40,"Karpov, Anatoly",8.43902439,41,16.08902439,"18","21",TRUE
+"615",930,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,10,"Karpov, Anatoly",16.60465116,43,"Kortschnoj, Viktor",14.44186047,43,31.04651163,"21","18",TRUE
+"616",931,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,11,"Kortschnoj, Viktor",14.12244898,49,"Karpov, Anatoly",28.26,50,42.38244898,"18","21",TRUE
+"617",932,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,12,"Karpov, Anatoly",9.906976744,43,"Kortschnoj, Viktor",8.454545455,44,18.3615222,"21","18",TRUE
+"618",933,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,13,"Kortschnoj, Viktor",28.65,60,"Karpov, Anatoly",14.09836066,61,42.74836066,"18","21",TRUE
+"619",934,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,14,"Karpov, Anatoly",18.65306122,49,"Kortschnoj, Viktor",22.42857143,49,41.08163265,"21","18",TRUE
+"620",935,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,15,"Kortschnoj, Viktor",3.958333333,24,"Karpov, Anatoly",2.708333333,24,6.666666667,"18","21",TRUE
+"621",936,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,16,"Karpov, Anatoly",8.951219512,41,"Kortschnoj, Viktor",9.547619048,42,18.49883856,"21","18",TRUE
+"622",937,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,17,"Kortschnoj, Viktor",54.94736842,38,"Karpov, Anatoly",26.15384615,39,81.10121457,"18","21",TRUE
+"623",938,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,18,"Karpov, Anatoly",17.01587302,63,"Kortschnoj, Viktor",17.359375,64,34.37524802,"21","18",TRUE
+"624",939,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,19,"Kortschnoj, Viktor",19.02631579,38,"Karpov, Anatoly",15.81578947,38,34.84210526,"18","21",TRUE
+"625",940,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,20,"Karpov, Anatoly",26.96774194,62,"Kortschnoj, Viktor",25.58730159,63,52.55504352,"21","18",TRUE
+"626",941,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,21,"Kortschnoj, Viktor",16.77966102,59,"Karpov, Anatoly",26.11864407,59,42.89830508,"18","21",TRUE
+"627",942,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,22,"Karpov, Anatoly",13.14285714,63,"Kortschnoj, Viktor",14.671875,64,27.81473214,"21","18",TRUE
+"628",943,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,23,"Kortschnoj, Viktor",14.19512195,41,"Karpov, Anatoly",9.073170732,41,23.26829268,"18","21",TRUE
+"629",944,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,24,"Karpov, Anatoly",11.25,44,"Kortschnoj, Viktor",8.888888889,45,20.13888889,"21","18",TRUE
+"630",945,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,25,"Kortschnoj, Viktor",22.11392405,79,"Karpov, Anatoly",22.775,80,44.88892405,"18","21",TRUE
+"631",946,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,26,"Karpov, Anatoly",12.42307692,26,"Kortschnoj, Viktor",14.18518519,27,26.60826211,"21","18",TRUE
+"632",947,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,27,"Kortschnoj, Viktor",25.625,40,"Karpov, Anatoly",12.275,40,37.9,"18","21",TRUE
+"633",948,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,28,"Karpov, Anatoly",16.05,60,"Kortschnoj, Viktor",8.295081967,61,24.34508197,"21","18",TRUE
+"634",949,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,29,"Kortschnoj, Viktor",12.29487179,78,"Karpov, Anatoly",16.84615385,78,29.14102564,"18","21",TRUE
+"635",950,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,30,"Karpov, Anatoly",8.725,40,"Kortschnoj, Viktor",8.390243902,41,17.1152439,"21","18",TRUE
+"636",951,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,31,"Kortschnoj, Viktor",11.91428571,70,"Karpov, Anatoly",21.21428571,70,33.12857143,"18","21",TRUE
+"637",952,"lichess_study_1978-world-championship-karpov-kortchnoi_by_Lichess_2021.11.29(1).pgn",1978,32,"Karpov, Anatoly",28.775,40,"Kortschnoj, Viktor",48.63414634,41,77.40914634,"21","18",TRUE
+"638",248,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,1,"Kortschnoj, Viktor",50.02380952,42,"Karpov, Anatoly",30.1627907,43,80.18660022,"18","21",TRUE
+"639",249,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,2,"Karpov, Anatoly",18.55357143,56,"Kortschnoj, Viktor",28.85714286,56,47.41071429,"21","18",TRUE
+"640",250,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,3,"Kortschnoj, Viktor",7.975,40,"Karpov, Anatoly",6.175,40,14.15,"18","21",TRUE
+"641",251,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,4,"Karpov, Anatoly",12.32692308,52,"Kortschnoj, Viktor",31.26923077,52,43.59615385,"21","18",TRUE
+"642",252,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,5,"Kortschnoj, Viktor",4.931818182,44,"Karpov, Anatoly",4.977272727,44,9.909090909,"18","21",TRUE
+"643",253,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,6,"Karpov, Anatoly",33.675,40,"Kortschnoj, Viktor",17.07317073,41,50.74817073,"21","18",TRUE
+"644",254,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,7,"Kortschnoj, Viktor",9.566666667,30,"Karpov, Anatoly",7.933333333,30,17.5,"18","21",TRUE
+"645",255,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,8,"Karpov, Anatoly",8.277108434,83,"Kortschnoj, Viktor",7.795180723,83,16.07228916,"21","18",TRUE
+"646",256,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,9,"Kortschnoj, Viktor",14.73809524,42,"Karpov, Anatoly",8.906976744,43,23.64507198,"18","21",TRUE
+"647",257,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,10,"Karpov, Anatoly",12.64516129,31,"Kortschnoj, Viktor",11.38709677,31,24.03225806,"21","18",TRUE
+"648",258,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,11,"Kortschnoj, Viktor",6.235294118,34,"Karpov, Anatoly",6.942857143,35,13.17815126,"18","21",TRUE
+"649",259,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,12,"Karpov, Anatoly",16.39130435,46,"Kortschnoj, Viktor",15.23913043,46,31.63043478,"21","18",TRUE
+"650",260,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,13,"Kortschnoj, Viktor",42.525,40,"Karpov, Anatoly",50,41,92.525,"18","21",TRUE
+"651",261,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,14,"Karpov, Anatoly",13.11111111,45,"Kortschnoj, Viktor",23.86666667,45,36.97777778,"21","18",TRUE
+"652",262,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,15,"Kortschnoj, Viktor",9.923076923,39,"Karpov, Anatoly",8.775,40,18.69807692,"18","21",TRUE
+"653",263,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,16,"Karpov, Anatoly",10.90243902,41,"Kortschnoj, Viktor",9.904761905,42,20.80720093,"21","18",TRUE
+"654",264,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,17,"Kortschnoj, Viktor",8.818181818,22,"Karpov, Anatoly",8.260869565,23,17.07905138,"18","21",TRUE
+"655",265,"lichess_study_1981-world-championship-karpov-kortchnoi-ii_by_Lichess_2021.11.29.pgn",1981,18,"Karpov, Anatoly",16.175,40,"Kortschnoj, Viktor",26.65,40,42.825,"21","18",TRUE
+"656",266,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,1,"Karpov, Anatoly",18.08571429,35,"Kasparov, Gary",18.02777778,36,36.11349206,"19","18",TRUE
+"657",267,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,2,"Kasparov, Gary",40.06521739,46,"Karpov, Anatoly",39.54347826,46,79.60869565,"18","19",TRUE
+"658",268,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,3,"Karpov, Anatoly",13.7,30,"Kasparov, Gary",35.33333333,30,49.03333333,"19","18",TRUE
+"659",269,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,4,"Kasparov, Gary",8.860465116,43,"Karpov, Anatoly",9.340909091,44,18.20137421,"18","19",TRUE
+"660",270,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,5,"Karpov, Anatoly",11.5,20,"Kasparov, Gary",6.904761905,21,18.4047619,"19","18",TRUE
+"661",271,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,6,"Kasparov, Gary",38.2173913,69,"Karpov, Anatoly",30.35714286,70,68.57453416,"18","19",TRUE
+"662",272,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,7,"Karpov, Anatoly",16.58536585,41,"Kasparov, Gary",26.09756098,41,42.68292683,"19","18",TRUE
+"663",273,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,8,"Kasparov, Gary",8,19,"Karpov, Anatoly",8,19,16,"18","19",TRUE
+"664",274,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,9,"Karpov, Anatoly",17.73913043,69,"Kasparov, Gary",27.07246377,69,44.8115942,"19","18",TRUE
+"665",275,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,10,"Kasparov, Gary",13.85714286,14,"Karpov, Anatoly",11.21428571,14,25.07142857,"18","19",TRUE
+"666",276,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,11,"Karpov, Anatoly",10.325,40,"Kasparov, Gary",9.35,40,19.675,"19","18",TRUE
+"667",277,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,12,"Kasparov, Gary",5.8,20,"Karpov, Anatoly",3.55,20,9.35,"18","19",TRUE
+"668",278,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,13,"Karpov, Anatoly",5.21875,32,"Kasparov, Gary",5.333333333,33,10.55208333,"19","18",TRUE
+"669",279,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,14,"Kasparov, Gary",7.266666667,15,"Karpov, Anatoly",7.466666667,15,14.73333333,"18","19",TRUE
+"670",280,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,15,"Karpov, Anatoly",5.054347826,92,"Kasparov, Gary",4.408602151,93,9.462949977,"19","18",TRUE
+"671",281,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,16,"Kasparov, Gary",32.88235294,34,"Karpov, Anatoly",29.2,35,62.08235294,"18","19",TRUE
+"672",282,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,17,"Karpov, Anatoly",5.333333333,21,"Kasparov, Gary",3.772727273,22,9.106060606,"19","18",TRUE
+"673",283,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,18,"Kasparov, Gary",6.142857143,21,"Karpov, Anatoly",5.476190476,21,11.61904762,"18","19",TRUE
+"674",284,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,19,"Karpov, Anatoly",5.720930233,43,"Kasparov, Gary",6.545454545,44,12.26638478,"19","18",TRUE
+"675",285,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,20,"Kasparov, Gary",7.571428571,14,"Karpov, Anatoly",8.142857143,14,15.71428571,"18","19",TRUE
+"676",286,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,21,"Karpov, Anatoly",8.066666667,30,"Kasparov, Gary",5.933333333,30,14,"19","18",TRUE
+"677",287,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,22,"Kasparov, Gary",10.10526316,19,"Karpov, Anatoly",9.157894737,19,19.26315789,"18","19",TRUE
+"678",288,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,23,"Karpov, Anatoly",6,21,"Kasparov, Gary",5.272727273,22,11.27272727,"19","18",TRUE
+"679",289,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,24,"Kasparov, Gary",13.5,16,"Karpov, Anatoly",14.9375,16,28.4375,"18","19",TRUE
+"680",290,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,25,"Karpov, Anatoly",11.05,20,"Kasparov, Gary",19.38095238,21,30.43095238,"19","18",TRUE
+"681",291,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,26,"Kasparov, Gary",9.818181818,22,"Karpov, Anatoly",8.130434783,23,17.9486166,"18","19",TRUE
+"682",292,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,27,"Karpov, Anatoly",12.77586207,58,"Kasparov, Gary",24.46551724,58,37.24137931,"19","18",TRUE
+"683",293,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,28,"Kasparov, Gary",13.125,24,"Karpov, Anatoly",10.79166667,24,23.91666667,"18","19",TRUE
+"684",294,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,29,"Karpov, Anatoly",5.416666667,12,"Kasparov, Gary",7.153846154,13,12.57051282,"19","18",TRUE
+"685",295,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,30,"Kasparov, Gary",12,19,"Karpov, Anatoly",8.05,20,20.05,"18","19",TRUE
+"686",296,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,31,"Karpov, Anatoly",10.79411765,34,"Kasparov, Gary",9.771428571,35,20.56554622,"19","18",TRUE
+"687",297,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,32,"Kasparov, Gary",29.975,40,"Karpov, Anatoly",32.3,40,62.275,"18","19",TRUE
+"688",298,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,33,"Karpov, Anatoly",12.10526316,19,"Kasparov, Gary",10.89473684,19,23,"19","18",TRUE
+"689",299,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,34,"Kasparov, Gary",6.473684211,19,"Karpov, Anatoly",4.3,20,10.77368421,"18","19",TRUE
+"690",300,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,35,"Karpov, Anatoly",18.9375,16,"Kasparov, Gary",16.05882353,17,34.99632353,"19","18",TRUE
+"691",301,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,36,"Kasparov, Gary",22.925,40,"Karpov, Anatoly",23.425,40,46.35,"18","19",TRUE
+"692",302,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,37,"Karpov, Anatoly",12.35714286,14,"Kasparov, Gary",8.266666667,15,20.62380952,"19","18",TRUE
+"693",303,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,38,"Kasparov, Gary",27.125,24,"Karpov, Anatoly",25.16,25,52.285,"18","19",TRUE
+"694",304,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,39,"Karpov, Anatoly",7.553191489,47,"Kasparov, Gary",7.333333333,48,14.88652482,"19","18",TRUE
+"695",305,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,40,"Kasparov, Gary",7.637681159,69,"Karpov, Anatoly",8.042857143,70,15.6805383,"18","19",TRUE
+"696",306,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,41,"Karpov, Anatoly",8.942857143,70,"Kasparov, Gary",8.914285714,70,17.85714286,"19","18",TRUE
+"697",307,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,42,"Kasparov, Gary",5.6,25,"Karpov, Anatoly",3.769230769,26,9.369230769,"18","19",TRUE
+"698",308,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,43,"Karpov, Anatoly",10.1,20,"Kasparov, Gary",5.761904762,21,15.86190476,"19","18",TRUE
+"699",309,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,44,"Kasparov, Gary",14.72972973,37,"Karpov, Anatoly",14.94594595,37,29.67567568,"18","19",TRUE
+"700",310,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,45,"Karpov, Anatoly",8.857142857,35,"Kasparov, Gary",7.166666667,36,16.02380952,"19","18",TRUE
+"701",311,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,46,"Kasparov, Gary",25.1,40,"Karpov, Anatoly",22.87804878,41,47.97804878,"18","19",TRUE
+"702",312,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,47,"Karpov, Anatoly",35.4516129,31,"Kasparov, Gary",9.78125,32,45.2328629,"19","18",TRUE
+"703",313,"lichess_study_1984-world-championship-karpov-vs-kasparov_by_Lichess_2021.11.29.pgn",1984,48,"Kasparov, Gary",16.57575758,66,"Karpov, Anatoly",22.46969697,66,39.04545455,"18","19",TRUE
+"704",897,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,1,"Kasparov, Gary",27.46341463,41,"Karpov, Anatoly",37.63414634,41,65.09756098,"18","19",TRUE
+"705",898,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,2,"Karpov, Anatoly",19.90625,64,"Kasparov, Gary",17.65625,64,37.5625,"19","18",TRUE
+"706",899,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,3,"Kasparov, Gary",12.10526316,19,"Karpov, Anatoly",8.6,20,20.70526316,"18","19",TRUE
+"707",900,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,4,"Karpov, Anatoly",8.451612903,62,"Kasparov, Gary",18.9516129,62,27.40322581,"19","18",TRUE
+"708",901,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,5,"Kasparov, Gary",34.775,40,"Karpov, Anatoly",28.29268293,41,63.06768293,"18","19",TRUE
+"709",902,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,6,"Karpov, Anatoly",5.346153846,26,"Kasparov, Gary",4.703703704,27,10.04985755,"19","18",TRUE
+"710",903,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,7,"Kasparov, Gary",21.36666667,30,"Karpov, Anatoly",18.83870968,31,40.20537634,"18","19",TRUE
+"711",904,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,8,"Karpov, Anatoly",5.729166667,48,"Kasparov, Gary",5.714285714,49,11.44345238,"19","18",TRUE
+"712",905,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,9,"Kasparov, Gary",9.019230769,52,"Karpov, Anatoly",8.615384615,52,17.63461538,"18","19",TRUE
+"713",906,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,10,"Karpov, Anatoly",11.19444444,36,"Kasparov, Gary",10.61111111,36,21.80555556,"19","18",TRUE
+"714",907,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,11,"Kasparov, Gary",9.5,24,"Karpov, Anatoly",41.16666667,24,50.66666667,"18","19",TRUE
+"715",908,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,12,"Karpov, Anatoly",12.64705882,17,"Kasparov, Gary",9.5,18,22.14705882,"19","18",TRUE
+"716",909,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,13,"Kasparov, Gary",10.69565217,23,"Karpov, Anatoly",11.54166667,24,22.23731884,"18","19",TRUE
+"717",910,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,14,"Karpov, Anatoly",14.32258065,31,"Kasparov, Gary",13.28125,32,27.60383065,"19","18",TRUE
+"718",911,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,15,"Kasparov, Gary",10.47619048,21,"Karpov, Anatoly",8.454545455,22,18.93073593,"18","19",TRUE
+"719",912,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,16,"Karpov, Anatoly",45.84615385,39,"Kasparov, Gary",20.2,40,66.04615385,"19","18",TRUE
+"720",913,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,17,"Kasparov, Gary",10.82142857,28,"Karpov, Anatoly",10.60714286,28,21.42857143,"18","19",TRUE
+"721",914,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,18,"Karpov, Anatoly",17.77272727,22,"Kasparov, Gary",10.68181818,22,28.45454545,"19","18",TRUE
+"722",915,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,19,"Kasparov, Gary",16.68292683,41,"Karpov, Anatoly",28.68292683,41,45.36585366,"18","19",TRUE
+"723",916,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,20,"Karpov, Anatoly",6.678571429,84,"Kasparov, Gary",7.023529412,85,13.70210084,"19","18",TRUE
+"724",917,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,21,"Kasparov, Gary",7.906976744,43,"Karpov, Anatoly",9.227272727,44,17.13424947,"18","19",TRUE
+"725",918,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,22,"Karpov, Anatoly",10.68292683,41,"Kasparov, Gary",21.09756098,41,31.7804878,"19","18",TRUE
+"726",919,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,23,"Kasparov, Gary",8.6,40,"Karpov, Anatoly",8.65,40,17.25,"18","19",TRUE
+"727",920,"lichess_study_1985-world-championship-karpov-kasparov-ii_by_Lichess_2021.11.29.pgn",1985,24,"Karpov, Anatoly",50.07317073,41,"Kasparov, Gary",24.64285714,42,74.71602787,"19","18",TRUE
+"728",314,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,1,"Karpov, Anatoly",13.85,20,"Kasparov, Gary",10.85,20,24.7,"19","18",TRUE
+"729",315,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,2,"Kasparov, Gary",20.49019608,51,"Karpov, Anatoly",20.75,52,41.24019608,"18","19",TRUE
+"730",316,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,3,"Karpov, Anatoly",5.823529412,34,"Kasparov, Gary",5.117647059,34,10.94117647,"19","18",TRUE
+"731",317,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,4,"Kasparov, Gary",11.02564103,39,"Karpov, Anatoly",16.65,40,27.67564103,"18","19",TRUE
+"732",318,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,5,"Karpov, Anatoly",10.90322581,31,"Kasparov, Gary",22.48387097,31,33.38709677,"19","18",TRUE
+"733",319,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,6,"Kasparov, Gary",10.7804878,41,"Karpov, Anatoly",9.073170732,41,19.85365854,"18","19",TRUE
+"734",320,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,7,"Karpov, Anatoly",16.925,40,"Kasparov, Gary",15.375,40,32.3,"19","18",TRUE
+"735",321,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,8,"Kasparov, Gary",19.73333333,30,"Karpov, Anatoly",35.6,30,55.33333333,"18","19",TRUE
+"736",322,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,9,"Karpov, Anatoly",13.10526316,19,"Kasparov, Gary",9.85,20,22.95526316,"19","18",TRUE
+"737",323,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,10,"Kasparov, Gary",11.38095238,42,"Karpov, Anatoly",12.48837209,43,23.86932447,"18","19",TRUE
+"738",324,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,11,"Karpov, Anatoly",14.075,40,"Kasparov, Gary",12.6,40,26.675,"19","18",TRUE
+"739",325,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,12,"Kasparov, Gary",4.848484848,33,"Karpov, Anatoly",3.848484848,33,8.696969697,"18","19",TRUE
+"740",326,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,13,"Karpov, Anatoly",20.58974359,39,"Kasparov, Gary",17.95,40,38.53974359,"19","18",TRUE
+"741",327,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,14,"Kasparov, Gary",6.625,40,"Karpov, Anatoly",9.9,40,16.525,"18","19",TRUE
+"742",328,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,15,"Karpov, Anatoly",7.964285714,28,"Kasparov, Gary",7.517241379,29,15.48152709,"19","18",TRUE
+"743",329,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,16,"Kasparov, Gary",7.45,40,"Karpov, Anatoly",26.05,40,33.5,"18","19",TRUE
+"744",330,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,17,"Karpov, Anatoly",10.96666667,30,"Kasparov, Gary",35.13333333,30,46.1,"19","18",TRUE
+"745",331,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,18,"Kasparov, Gary",44.28070175,57,"Karpov, Anatoly",29.96551724,58,74.246219,"18","19",TRUE
+"746",332,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,19,"Karpov, Anatoly",18.12820513,39,"Kasparov, Gary",21.175,40,39.30320513,"19","18",TRUE
+"747",333,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,20,"Kasparov, Gary",7.2,20,"Karpov, Anatoly",7.619047619,21,14.81904762,"18","19",TRUE
+"748",334,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,21,"Karpov, Anatoly",6.863636364,44,"Kasparov, Gary",6.888888889,45,13.75252525,"19","18",TRUE
+"749",335,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,22,"Kasparov, Gary",11.04444444,45,"Karpov, Anatoly",19.48888889,45,30.53333333,"18","19",TRUE
+"750",336,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,23,"Karpov, Anatoly",15.06451613,31,"Kasparov, Gary",13.0625,32,28.12701613,"19","18",TRUE
+"751",337,"lichess_study_1986-world-championship-karpov-vs-kasparov-iii_by_Lichess_2021.11.29.pgn",1986,24,"Kasparov, Gary",5.725,40,"Karpov, Anatoly",5.125,40,10.85,"18","19",TRUE
+"752",625,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,1,"Karpov, Anatoly",10.82758621,29,"Kasparov, Gary",9.827586207,29,20.65517241,"19","18",TRUE
+"753",626,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,2,"Kasparov, Gary",45.25806452,31,"Karpov, Anatoly",23.28125,32,68.53931452,"18","19",TRUE
+"754",627,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,3,"Karpov, Anatoly",12.92857143,28,"Kasparov, Gary",10,29,22.92857143,"19","18",TRUE
+"755",628,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,4,"Kasparov, Gary",32.15,40,"Karpov, Anatoly",43.525,40,75.675,"18","19",TRUE
+"756",629,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,5,"Karpov, Anatoly",18.27027027,37,"Kasparov, Gary",42.48648649,37,60.75675676,"19","18",TRUE
+"757",630,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,6,"Kasparov, Gary",9.037037037,27,"Karpov, Anatoly",7.888888889,27,16.92592593,"18","19",TRUE
+"758",631,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,7,"Karpov, Anatoly",13.58974359,78,"Kasparov, Gary",12.49367089,79,26.08341448,"19","18",TRUE
+"759",632,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,8,"Kasparov, Gary",12.83673469,49,"Karpov, Anatoly",21.10204082,49,33.93877551,"18","19",TRUE
+"760",633,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,9,"Karpov, Anatoly",7.275362319,69,"Kasparov, Gary",6.214285714,70,13.48964803,"19","18",TRUE
+"761",634,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,10,"Kasparov, Gary",14.52631579,19,"Karpov, Anatoly",12.89473684,19,27.42105263,"18","19",TRUE
+"762",635,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,11,"Karpov, Anatoly",32.36734694,49,"Kasparov, Gary",17.96,50,50.32734694,"19","18",TRUE
+"763",636,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,12,"Kasparov, Gary",9.25,20,"Karpov, Anatoly",6.95,20,16.2,"18","19",TRUE
+"764",637,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,13,"Karpov, Anatoly",11.94285714,35,"Kasparov, Gary",10.05555556,36,21.9984127,"19","18",TRUE
+"765",638,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,14,"Kasparov, Gary",7.5,20,"Karpov, Anatoly",9.9,20,17.4,"18","19",TRUE
+"766",639,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,15,"Karpov, Anatoly",13.88095238,42,"Kasparov, Gary",13.45238095,42,27.33333333,"19","18",TRUE
+"767",640,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,16,"Kasparov, Gary",29.05,40,"Karpov, Anatoly",20.7,40,49.75,"18","19",TRUE
+"768",641,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,17,"Karpov, Anatoly",8.822222222,45,"Kasparov, Gary",10.26086957,46,19.08309179,"19","18",TRUE
+"769",642,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,18,"Kasparov, Gary",3.487179487,39,"Karpov, Anatoly",3.2,40,6.687179487,"18","19",TRUE
+"770",643,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,19,"Karpov, Anatoly",7.898305085,59,"Kasparov, Gary",7.466666667,60,15.36497175,"19","18",TRUE
+"771",644,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,20,"Kasparov, Gary",9.111111111,36,"Karpov, Anatoly",9.378378378,37,18.48948949,"18","19",TRUE
+"772",645,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,21,"Karpov, Anatoly",11.88888889,27,"Kasparov, Gary",9.821428571,28,21.71031746,"19","18",TRUE
+"773",646,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,22,"Kasparov, Gary",6.388888889,18,"Karpov, Anatoly",7.777777778,18,14.16666667,"18","19",TRUE
+"774",647,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,23,"Karpov, Anatoly",14.66071429,56,"Kasparov, Gary",26.94736842,57,41.60808271,"19","18",TRUE
+"775",648,"lichess_study_1987-world-championship-karpov-kasparov-iv_by_Lichess_2021.11.29.pgn",1987,24,"Kasparov, Gary",19.36507937,63,"Karpov, Anatoly",29.14285714,63,48.50793651,"18","19",TRUE
+"776",0,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,1,"Karpov, Anatoly",15.4137931,29,"Kasparov, Gary",13.26666667,30,28.68045977,"19","18",TRUE
+"777",1,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,2,"Kasparov, Gary",14.3255814,43,"Karpov, Anatoly",28.8372093,43,43.1627907,"18","19",TRUE
+"778",2,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,3,"Karpov, Anatoly",21.5,52,"Kasparov, Gary",20.13461538,52,41.63461538,"19","18",TRUE
+"779",3,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,4,"Kasparov, Gary",16.87179487,39,"Karpov, Anatoly",14.525,40,31.39679487,"18","19",TRUE
+"780",4,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,5,"Karpov, Anatoly",10.62857143,35,"Kasparov, Gary",10.37142857,35,21,"19","18",TRUE
+"781",5,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,6,"Kasparov, Gary",15.25,40,"Karpov, Anatoly",15.19512195,41,30.44512195,"18","19",TRUE
+"782",6,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,7,"Karpov, Anatoly",20.86046512,43,"Kasparov, Gary",25.65116279,43,46.51162791,"19","18",TRUE
+"783",7,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,8,"Kasparov, Gary",12.62650602,83,"Karpov, Anatoly",11.90361446,83,24.53012048,"18","19",TRUE
+"784",8,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,9,"Karpov, Anatoly",17.90909091,33,"Kasparov, Gary",16.24242424,33,34.15151515,"19","18",TRUE
+"785",9,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,10,"Kasparov, Gary",10.47058824,17,"Karpov, Anatoly",7.352941176,17,17.82352941,"18","19",TRUE
+"786",10,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,11,"Karpov, Anatoly",10.86956522,23,"Kasparov, Gary",9.208333333,24,20.07789855,"19","18",TRUE
+"787",11,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,12,"Kasparov, Gary",18.63888889,36,"Karpov, Anatoly",16.19444444,36,34.83333333,"18","19",TRUE
+"788",12,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,13,"Karpov, Anatoly",13.17073171,41,"Kasparov, Gary",11.95121951,41,25.12195122,"19","18",TRUE
+"789",13,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,14,"Kasparov, Gary",11.87179487,39,"Karpov, Anatoly",11.55,40,23.42179487,"18","19",TRUE
+"790",14,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,15,"Karpov, Anatoly",16.09375,32,"Kasparov, Gary",14.21212121,33,30.30587121,"19","18",TRUE
+"791",15,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,16,"Kasparov, Gary",16.84848485,99,"Karpov, Anatoly",21.19,100,38.03848485,"18","19",TRUE
+"792",16,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,17,"Karpov, Anatoly",13.97435897,39,"Kasparov, Gary",24.25641026,39,38.23076923,"19","18",TRUE
+"793",17,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,18,"Kasparov, Gary",16.03571429,56,"Karpov, Anatoly",26.89285714,56,42.92857143,"18","19",TRUE
+"794",18,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,19,"Karpov, Anatoly",22.78947368,38,"Kasparov, Gary",18.23076923,39,41.02024291,"19","18",TRUE
+"795",19,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,20,"Kasparov, Gary",15,40,"Karpov, Anatoly",36.2,40,51.2,"18","19",TRUE
+"796",20,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,21,"Karpov, Anatoly",9.011764706,85,"Kasparov, Gary",9.581395349,86,18.59316005,"19","18",TRUE
+"797",21,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,22,"Kasparov, Gary",13.71428571,42,"Karpov, Anatoly",12.95238095,42,26.66666667,"18","19",TRUE
+"798",22,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,23,"Karpov, Anatoly",23.75,28,"Kasparov, Gary",46.28571429,28,70.03571429,"19","18",TRUE
+"799",23,"lichess_study_1990-world-championship-karpov-vs-kasparov-v_by_Lichess_2021.11.29.pgn",1990,24,"Kasparov, Gary",18.97142857,35,"Karpov, Anatoly",27.17142857,35,46.14285714,"18","19",TRUE
+"800",704,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,1,"Kasparov, Gary",36.81578947,38,"Short, Nigel D",28.79487179,39,65.61066127,"31","19",TRUE
+"801",705,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,2,"Short, Nigel D",13.76,50,"Kasparov, Gary",14.7,50,28.46,"19","31",TRUE
+"802",706,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,3,"Kasparov, Gary",16.72413793,58,"Short, Nigel D",31.77586207,58,48.5,"31","19",TRUE
+"803",707,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,4,"Short, Nigel D",36.66666667,39,"Kasparov, Gary",21.35,40,58.01666667,"19","31",TRUE
+"804",708,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,5,"Kasparov, Gary",11.70588235,17,"Short, Nigel D",12.94117647,17,24.64705882,"31","19",TRUE
+"805",709,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,6,"Short, Nigel D",11.6,30,"Kasparov, Gary",9.870967742,31,21.47096774,"19","31",TRUE
+"806",710,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,7,"Kasparov, Gary",15.54285714,35,"Short, Nigel D",45.2,35,60.74285714,"31","19",TRUE
+"807",711,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,8,"Short, Nigel D",35.225,40,"Kasparov, Gary",31.46341463,41,66.68841463,"19","31",TRUE
+"808",712,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,9,"Kasparov, Gary",25.98039216,51,"Short, Nigel D",37.68627451,51,63.66666667,"31","19",TRUE
+"809",713,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,10,"Short, Nigel D",51.9047619,42,"Kasparov, Gary",52.65116279,43,104.5559247,"19","31",TRUE
+"810",714,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,11,"Kasparov, Gary",9.714285714,49,"Short, Nigel D",8.62,50,18.33428571,"31","19",TRUE
+"811",715,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,12,"Short, Nigel D",8.58974359,39,"Kasparov, Gary",5.575,40,14.16474359,"19","31",TRUE
+"812",716,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,13,"Kasparov, Gary",10.18181818,33,"Short, Nigel D",9.787878788,33,19.96969697,"31","19",TRUE
+"813",717,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,14,"Short, Nigel D",19.36842105,38,"Kasparov, Gary",12.56410256,39,31.93252362,"19","31",TRUE
+"814",718,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,15,"Kasparov, Gary",14.23684211,38,"Short, Nigel D",34.65789474,38,48.89473684,"31","19",TRUE
+"815",719,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,16,"Short, Nigel D",11.94594595,37,"Kasparov, Gary",32.72972973,37,44.67567568,"19","31",TRUE
+"816",720,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,17,"Kasparov, Gary",9.075,40,"Short, Nigel D",8.225,40,17.3,"31","19",TRUE
+"817",721,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,18,"Short, Nigel D",10.6875,32,"Kasparov, Gary",7.272727273,33,17.96022727,"19","31",TRUE
+"818",722,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,19,"Kasparov, Gary",9.76,25,"Short, Nigel D",10.92,25,20.68,"31","19",TRUE
+"819",723,"lichess_study_1993-world-championship-kasparov-vs-short_by_Lichess_2021.11.29.pgn",1993,20,"Short, Nigel D",5.371428571,35,"Kasparov, Gary",2.057142857,35,7.428571429,"19","31",TRUE
+"820",98,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,1,"Anand, Viswanathan",9.461538462,26,"Kasparov, Gary",5.925925926,27,15.38746439,"19","2",TRUE
+"821",99,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,2,"Kasparov, Gary",5.892857143,28,"Anand, Viswanathan",6.172413793,29,12.06527094,"2","19",TRUE
+"822",100,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,3,"Anand, Viswanathan",10.48571429,35,"Kasparov, Gary",6.361111111,36,16.8468254,"19","2",TRUE
+"823",101,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,4,"Kasparov, Gary",13.05,20,"Anand, Viswanathan",11.5,20,24.55,"2","19",TRUE
+"824",102,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,5,"Anand, Viswanathan",11.88461538,26,"Kasparov, Gary",5.592592593,27,17.47720798,"19","2",TRUE
+"825",103,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,6,"Kasparov, Gary",6.851851852,27,"Anand, Viswanathan",11.51851852,27,18.37037037,"2","19",TRUE
+"826",104,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,7,"Anand, Viswanathan",6.375,24,"Kasparov, Gary",4.04,25,10.415,"19","2",TRUE
+"827",105,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,8,"Kasparov, Gary",11.04761905,21,"Anand, Viswanathan",10.27272727,22,21.32034632,"2","19",TRUE
+"828",106,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,9,"Anand, Viswanathan",12.70588235,34,"Kasparov, Gary",29.73529412,34,42.44117647,"19","2",TRUE
+"829",107,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,10,"Kasparov, Gary",10.56756757,37,"Anand, Viswanathan",29.59459459,37,40.16216216,"2","19",TRUE
+"830",108,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,11,"Anand, Viswanathan",30.1,30,"Kasparov, Gary",7.451612903,31,37.5516129,"19","2",TRUE
+"831",109,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,12,"Kasparov, Gary",12.16666667,42,"Anand, Viswanathan",11.23255814,43,23.39922481,"2","19",TRUE
+"832",110,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,13,"Anand, Viswanathan",40.375,24,"Kasparov, Gary",10.84,25,51.215,"19","2",TRUE
+"833",111,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,14,"Kasparov, Gary",19.975,40,"Anand, Viswanathan",28.35,40,48.325,"2","19",TRUE
+"834",112,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,15,"Anand, Viswanathan",7,15,"Kasparov, Gary",6.125,16,13.125,"19","2",TRUE
+"835",113,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,16,"Kasparov, Gary",10.89473684,19,"Anand, Viswanathan",6.842105263,19,17.73684211,"2","19",TRUE
+"836",114,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,17,"Anand, Viswanathan",15.59677419,62,"Kasparov, Gary",15.03225806,62,30.62903226,"19","2",TRUE
+"837",115,"lichess_study_1995-world-championship-kasparov-vs-anand_by_Lichess_2021.11.29.pgn",1995,18,"Kasparov, Gary",9.090909091,11,"Anand, Viswanathan",4.636363636,11,13.72727273,"2","19",TRUE
+"838",827,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,1,"Kasparov, Gary",10.41666667,24,"Kramnik,V",10.92,25,21.33666667,"22","19",FALSE
+"839",828,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,2,"Kramnik,V",10.64102564,39,"Kasparov, Gary",23.92307692,39,34.56410256,"19","22",FALSE
+"840",829,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,3,"Kasparov, Gary",8.826923077,52,"Kramnik,V",7.509433962,53,16.33635704,"22","19",FALSE
+"841",830,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,4,"Kramnik,V",20.38356164,73,"Kasparov, Gary",19.30136986,73,39.68493151,"19","22",FALSE
+"842",831,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,5,"Kasparov, Gary",16.95652174,23,"Kramnik,V",17.25,24,34.20652174,"22","19",FALSE
+"843",832,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,6,"Kramnik,V",22.55384615,65,"Kasparov, Gary",23.29230769,65,45.84615385,"19","22",FALSE
+"844",833,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,7,"Kasparov, Gary",11.6,10,"Kramnik,V",11.3,10,22.9,"22","19",FALSE
+"845",834,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,8,"Kramnik,V",8.405405405,37,"Kasparov, Gary",7.081081081,37,15.48648649,"19","22",FALSE
+"846",835,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,9,"Kasparov, Gary",5.034482759,29,"Kramnik,V",3,30,8.034482759,"22","19",FALSE
+"847",836,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,10,"Kramnik,V",7.291666667,24,"Kasparov, Gary",30,24,37.29166667,"19","22",FALSE
+"848",837,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,11,"Kasparov, Gary",3.45,40,"Kramnik,V",3.731707317,41,7.181707317,"22","19",FALSE
+"849",838,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,12,"Kramnik,V",15.34375,32,"Kasparov, Gary",17.12121212,33,32.46496212,"19","22",FALSE
+"850",839,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,13,"Kasparov, Gary",11.15384615,13,"Kramnik,V",4.230769231,13,15.38461538,"22","19",FALSE
+"851",840,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,14,"Kramnik,V",11.19642857,56,"Kasparov, Gary",11.05263158,57,22.24906015,"19","22",FALSE
+"852",841,"lichess_study_2000-world-championship-kasparov-kramnik_by_Lichess_2021.11.29.pgn",2000,15,"Kasparov, Gary",8.864864865,37,"Kramnik,V",8.184210526,38,17.04907539,"22","19",FALSE
+"853",218,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,1,"Leko,P",22.15625,64,"Kramnik,V",10.18461538,65,32.34086538,"22","24",FALSE
+"854",219,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,2,"Kramnik,V",10.05882353,17,"Leko,P",9,17,19.05882353,"24","22",FALSE
+"855",220,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,3,"Leko,P",12.63636364,22,"Kramnik,V",9.869565217,23,22.50592885,"22","24",FALSE
+"856",221,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,4,"Kramnik,V",7.761904762,42,"Leko,P",7.209302326,43,14.97120709,"24","22",FALSE
+"857",222,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,5,"Leko,P",14.88235294,68,"Kramnik,V",23.55882353,68,38.44117647,"22","24",FALSE
+"858",223,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,6,"Kramnik,V",4.368421053,19,"Leko,P",3.7,20,8.068421053,"24","22",FALSE
+"859",224,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,7,"Leko,P",7.85,20,"Kramnik,V",3.45,20,11.3,"22","24",FALSE
+"860",225,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,8,"Kramnik,V",17.83870968,31,"Leko,P",13.40625,32,31.24495968,"24","22",FALSE
+"861",226,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,9,"Leko,P",6.333333333,15,"Kramnik,V",5.375,16,11.70833333,"22","24",FALSE
+"862",227,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,10,"Kramnik,V",19.11764706,34,"Leko,P",20.52941176,34,39.64705882,"24","22",FALSE
+"863",228,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,11,"Leko,P",9.1875,16,"Kramnik,V",8.941176471,17,18.12867647,"22","24",FALSE
+"864",229,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,12,"Kramnik,V",13.36363636,33,"Leko,P",11.35294118,34,24.71657754,"24","22",FALSE
+"865",230,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,13,"Leko,P",22.26984127,63,"Kramnik,V",20.609375,64,42.87921627,"22","24",FALSE
+"866",231,"lichess_study_2004-world-championship-kramnik-leko_by_Lichess_2021.11.29.pgn",2004,14,"Kramnik,V",7.575,40,"Leko,P",25.875,40,33.45,"24","22",FALSE
+"867",462,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,1,"Kramnik,V",8.554054054,74,"Topalov,V",13.60810811,74,22.16216216,"38","22",FALSE
+"868",463,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,2,"Topalov,V",45.06451613,62,"Kramnik,V",32.22222222,63,77.28673835,"22","38",FALSE
+"869",464,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,3,"Kramnik,V",16.91891892,37,"Topalov,V",15.44736842,38,32.36628734,"38","22",FALSE
+"870",465,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,4,"Topalov,V",7.150943396,53,"Kramnik,V",7.735849057,53,14.88679245,"22","38",FALSE
+"871",466,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,6,"Topalov,V",6.7,30,"Kramnik,V",5.666666667,30,12.36666667,"22","38",FALSE
+"872",467,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,7,"Topalov,V",7.389830508,59,"Kramnik,V",7.101694915,59,14.49152542,"22","38",FALSE
+"873",468,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,8,"Kramnik,V",34.11764706,51,"Topalov,V",14.32692308,52,48.44457014,"38","22",FALSE
+"874",469,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,9,"Topalov,V",21.02631579,38,"Kramnik,V",37.10526316,38,58.13157895,"22","38",FALSE
+"875",470,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,10,"Kramnik,V",12.61904762,42,"Topalov,V",23.57142857,42,36.19047619,"38","22",FALSE
+"876",471,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,11,"Topalov,V",5.646153846,65,"Kramnik,V",4.984615385,65,10.63076923,"22","38",FALSE
+"877",472,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,12,"Kramnik,V",5.5,46,"Topalov,V",4.893617021,47,10.39361702,"38","22",FALSE
+"878",473,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,13,"Topalov,V",13.06521739,46,"Kramnik,V",12.2173913,46,25.2826087,"22","38",FALSE
+"879",474,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,14,"Kramnik,V",19.11363636,44,"Topalov,V",27.54545455,44,46.65909091,"38","22",FALSE
+"880",475,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,15,"Topalov,V",17.81632653,49,"Kramnik,V",37.34693878,49,55.16326531,"22","38",FALSE
+"881",476,"lichess_study_2006-world-championship-kramnik-topalov_by_Lichess_2021.11.29.pgn",2006,16,"Kramnik,V",15.52272727,44,"Topalov,V",27.72727273,44,43.25,"38","22",FALSE
+"882",760,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,1,"Kramnik,V",12.04545455,22,"Svidler,P",9.818181818,22,21.86363636,"35","22",FALSE
+"883",761,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,2,"Morozevich,A",15.5,24,"Aronian,L",15.2,25,30.7,"3","26",FALSE
+"884",762,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,3,"Anand, Viswanathan",28.57142857,21,"Gelfand,B",23.45454545,22,52.02597403,"13","2",FALSE
+"885",763,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,4,"Grischuk,A",6.888888889,27,"Leko,P",7.925925926,27,14.81481481,"24","14",FALSE
+"886",764,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,5,"Svidler,P",11.33333333,42,"Leko,P",7.785714286,42,19.11904762,"24","35",FALSE
+"887",765,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,6,"Gelfand,B",13.13636364,22,"Grischuk,A",12.40909091,22,25.54545455,"14","13",FALSE
+"888",766,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,7,"Aronian,L",35.3,40,"Anand, Viswanathan",14.51219512,41,49.81219512,"2","3",FALSE
+"889",767,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,8,"Kramnik,V",32.76923077,26,"Morozevich,A",69.19230769,26,101.9615385,"26","22",FALSE
+"890",768,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,9,"Morozevich,A",18.47222222,36,"Svidler,P",35.36111111,36,53.83333333,"35","26",FALSE
+"891",769,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,10,"Anand, Viswanathan",7.734375,64,"Kramnik,V",7.515625,64,15.25,"22","2",FALSE
+"892",770,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,11,"Grischuk,A",32.46666667,30,"Aronian,L",33.6,30,66.06666667,"3","14",FALSE
+"893",771,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,12,"Leko,P",10.71717172,99,"Gelfand,B",11.13,100,21.84717172,"13","24",FALSE
+"894",772,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,13,"Kramnik,V",15.57627119,59,"Grischuk,A",14.71666667,60,30.29293785,"14","22",FALSE
+"895",773,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,14,"Morozevich,A",27.08333333,60,"Anand, Viswanathan",29.91666667,60,57,"2","26",FALSE
+"896",774,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,15,"Svidler,P",6.652173913,23,"Gelfand,B",5.625,24,12.27717391,"13","35",FALSE
+"897",775,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,16,"Aronian,L",10.90909091,44,"Leko,P",20.81818182,44,31.72727273,"24","3",FALSE
+"898",776,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,17,"Anand, Viswanathan",11.21052632,38,"Svidler,P",30.13157895,38,41.34210526,"35","2",FALSE
+"899",777,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,18,"Grischuk,A",16.875,40,"Morozevich,A",32,40,48.875,"26","14",FALSE
+"900",778,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,19,"Leko,P",8.565217391,23,"Kramnik,V",8.291666667,24,16.85688406,"22","24",FALSE
+"901",779,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,20,"Gelfand,B",32,47,"Aronian,L",45.76595745,47,77.76595745,"3","13",FALSE
+"902",780,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,21,"Grischuk,A",19.625,40,"Svidler,P",21.7,40,41.325,"35","14",FALSE
+"903",781,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,22,"Leko,P",8.35,20,"Anand, Viswanathan",6.619047619,21,14.96904762,"2","24",FALSE
+"904",782,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,23,"Aronian,L",7.142857143,21,"Kramnik,V",7.476190476,21,14.61904762,"22","3",FALSE
+"905",783,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,24,"Gelfand,B",8.489795918,49,"Morozevich,A",20,49,28.48979592,"26","13",FALSE
+"906",784,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,25,"Morozevich,A",10.84745763,59,"Leko,P",9.633333333,60,20.48079096,"24","26",FALSE
+"907",785,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,26,"Anand, Viswanathan",16.59183673,49,"Grischuk,A",28.24489796,49,44.83673469,"14","2",FALSE
+"908",786,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,27,"Svidler,P",7.578947368,19,"Aronian,L",4.9,20,12.47894737,"3","35",FALSE
+"909",787,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,28,"Kramnik,V",20.38461538,39,"Gelfand,B",18.2,40,38.58461538,"13","22",FALSE
+"910",788,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,29,"Svidler,P",11.57142857,28,"Kramnik,V",13.55172414,29,25.12315271,"22","35",FALSE
+"911",789,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,30,"Aronian,L",17,68,"Morozevich,A",16.31884058,69,33.31884058,"26","3",FALSE
+"912",790,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,31,"Gelfand,B",13.57894737,19,"Anand, Viswanathan",9.526315789,19,23.10526316,"2","13",FALSE
+"913",791,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,32,"Leko,P",17.81355932,59,"Grischuk,A",31.79661017,59,49.61016949,"14","24",FALSE
+"914",792,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,33,"Leko,P",7.535714286,28,"Svidler,P",6.678571429,28,14.21428571,"35","24",FALSE
+"915",793,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,34,"Grischuk,A",20.36666667,60,"Gelfand,B",33.83333333,60,54.2,"13","14",FALSE
+"916",794,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,35,"Anand, Viswanathan",9.1,20,"Aronian,L",7.2,20,16.3,"3","2",FALSE
+"917",795,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,36,"Morozevich,A",15.70212766,47,"Kramnik,V",27.63829787,47,43.34042553,"22","26",FALSE
+"918",796,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,37,"Svidler,P",30.95348837,43,"Morozevich,A",29.65909091,44,60.61257928,"26","35",FALSE
+"919",797,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,38,"Kramnik,V",16.65,40,"Anand, Viswanathan",13.375,40,30.025,"2","22",FALSE
+"920",798,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,39,"Aronian,L",10.2195122,41,"Grischuk,A",32.24390244,41,42.46341463,"14","3",FALSE
+"921",799,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,40,"Gelfand,B",10.86956522,23,"Leko,P",9.695652174,23,20.56521739,"24","13",FALSE
+"922",800,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,41,"Grischuk,A",15.5,12,"Kramnik,V",18,12,33.5,"22","14",FALSE
+"923",801,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,42,"Anand, Viswanathan",18.18181818,55,"Morozevich,A",32.85454545,55,51.03636364,"26","2",FALSE
+"924",802,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,43,"Gelfand,B",22.85714286,21,"Svidler,P",14.42857143,21,37.28571429,"35","13",FALSE
+"925",803,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,44,"Leko,P",8.909090909,55,"Aronian,L",8.410714286,56,17.31980519,"3","24",FALSE
+"926",804,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,45,"Svidler,P",5.571428571,21,"Anand, Viswanathan",4.045454545,22,9.616883117,"2","35",FALSE
+"927",805,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,46,"Morozevich,A",14.3902439,41,"Grischuk,A",38,41,52.3902439,"14","26",FALSE
+"928",806,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,47,"Kramnik,V",14.94736842,38,"Leko,P",27.26315789,38,42.21052632,"24","22",FALSE
+"929",807,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,48,"Aronian,L",46.66666667,39,"Gelfand,B",38.075,40,84.74166667,"13","3",FALSE
+"930",808,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,49,"Gelfand,B",9.92,25,"Kramnik,V",7.8,25,17.72,"22","13",FALSE
+"931",809,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,50,"Grischuk,A",7.041666667,72,"Anand, Viswanathan",7.180555556,72,14.22222222,"2","14",FALSE
+"932",810,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,51,"Aronian,L",4.977777778,45,"Svidler,P",5.844444444,45,10.82222222,"35","3",FALSE
+"933",811,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,52,"Leko,P",9.375,32,"Morozevich,A",29.03125,32,38.40625,"26","24",FALSE
+"934",812,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,53,"Svidler,P",14.34146341,41,"Grischuk,A",24.87804878,41,39.2195122,"14","35",FALSE
+"935",813,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,54,"Anand, Viswanathan",7.631578947,19,"Leko,P",6.526315789,19,14.15789474,"24","2",FALSE
+"936",814,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,55,"Morozevich,A",16.68181818,44,"Gelfand,B",17.51111111,45,34.19292929,"13","26",FALSE
+"937",815,"lichess_study_2007-world-championship-tournament_by_Lichess_2021.11.29.pgn",2007,56,"Kramnik,V",8.705882353,34,"Aronian,L",28.64705882,34,37.35294118,"3","22",FALSE
+"938",131,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,1,"Kramnik,V",8.322580645,31,"Anand, Viswanathan",6.125,32,14.44758065,"2","22",FALSE
+"939",132,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,2,"Anand, Viswanathan",13,31,"Kramnik,V",18.21875,32,31.21875,"22","2",FALSE
+"940",133,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,3,"Kramnik,V",47.375,40,"Anand, Viswanathan",27.29268293,41,74.66768293,"2","22",FALSE
+"941",134,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,4,"Anand, Viswanathan",7.714285714,28,"Kramnik,V",6.517241379,29,14.23152709,"22","2",FALSE
+"942",135,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,5,"Kramnik,V",27.70588235,34,"Anand, Viswanathan",9.028571429,35,36.73445378,"2","22",FALSE
+"943",136,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,6,"Anand, Viswanathan",16.89130435,46,"Kramnik,V",27.67391304,46,44.56521739,"22","2",FALSE
+"944",137,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,7,"Anand, Viswanathan",8.057142857,35,"Kramnik,V",8.194444444,36,16.2515873,"22","2",FALSE
+"945",138,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,8,"Kramnik,V",9.157894737,38,"Anand, Viswanathan",8.692307692,39,17.85020243,"2","22",FALSE
+"946",139,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,9,"Anand, Viswanathan",14.40909091,44,"Kramnik,V",12.24444444,45,26.65353535,"22","2",FALSE
+"947",140,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,10,"Kramnik,V",14,28,"Anand, Viswanathan",27.14285714,28,41.14285714,"2","22",FALSE
+"948",141,"lichess_study_2008-world-championship-anand-kramnik_by_Lichess_2021.11.29.pgn",2008,11,"Anand, Viswanathan",10.2173913,23,"Kramnik,V",6.833333333,24,17.05072464,"22","2",FALSE
+"949",748,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,1,"Topalov,V",33.75862069,29,"Anand, Viswanathan",48.86206897,29,82.62068966,"2","38",FALSE
+"950",749,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,2,"Anand, Viswanathan",12.07142857,42,"Topalov,V",27.5952381,42,39.66666667,"38","2",FALSE
+"951",750,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,3,"Topalov,V",7.6,45,"Anand, Viswanathan",8.377777778,45,15.97777778,"2","38",FALSE
+"952",751,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,4,"Anand, Viswanathan",17.64516129,31,"Topalov,V",45.4516129,31,63.09677419,"38","2",FALSE
+"953",752,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,5,"Topalov,V",6.488372093,43,"Anand, Viswanathan",4.651162791,43,11.13953488,"2","38",FALSE
+"954",753,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,6,"Anand, Viswanathan",9.01754386,57,"Topalov,V",8.517241379,58,17.53478524,"38","2",FALSE
+"955",754,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,7,"Anand, Viswanathan",11.92982456,57,"Topalov,V",11.61403509,57,23.54385965,"38","2",FALSE
+"956",755,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,8,"Topalov,V",12.30909091,55,"Anand, Viswanathan",23.4,55,35.70909091,"2","38",FALSE
+"957",756,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,9,"Anand, Viswanathan",22.85365854,82,"Topalov,V",20.23170732,82,43.08536585,"38","2",FALSE
+"958",757,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,10,"Topalov,V",7.406779661,59,"Anand, Viswanathan",6.627118644,59,14.03389831,"2","38",FALSE
+"959",758,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,11,"Anand, Viswanathan",5.15625,64,"Topalov,V",5.061538462,65,10.21778846,"38","2",FALSE
+"960",759,"lichess_study_2010-world-championship-anand-topalov_by_Lichess_2021.11.29.pgn",2010,12,"Topalov,V",27.09090909,55,"Anand, Viswanathan",17.08928571,56,44.18019481,"2","38",FALSE
+"961",232,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,1,"Anand, Viswanathan",11.69565217,23,"Gelfand,B",9,24,20.69565217,"13","2",FALSE
+"962",233,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,2,"Gelfand,B",7.375,24,"Anand, Viswanathan",6.5,24,13.875,"2","13",FALSE
+"963",234,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,3,"Anand, Viswanathan",15.72222222,36,"Gelfand,B",10.62162162,37,26.34384384,"13","2",FALSE
+"964",235,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,4,"Gelfand,B",9.242424242,33,"Anand, Viswanathan",8.5,34,17.74242424,"2","13",FALSE
+"965",236,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,5,"Anand, Viswanathan",11.07692308,26,"Gelfand,B",7.961538462,26,19.03846154,"13","2",FALSE
+"966",237,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,6,"Gelfand,B",8.5,28,"Anand, Viswanathan",7.793103448,29,16.29310345,"2","13",FALSE
+"967",238,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,7,"Gelfand,B",25.21621622,37,"Anand, Viswanathan",50.16216216,37,75.37837838,"2","13",FALSE
+"968",239,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,8,"Anand, Viswanathan",20.3125,16,"Gelfand,B",49.4375,16,69.75,"13","2",FALSE
+"969",240,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,9,"Gelfand,B",15.0625,48,"Anand, Viswanathan",15.06122449,49,30.12372449,"2","13",FALSE
+"970",241,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,10,"Anand, Viswanathan",10.58333333,24,"Gelfand,B",9.791666667,24,20.375,"13","2",FALSE
+"971",242,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,11,"Gelfand,B",11.13043478,23,"Anand, Viswanathan",10.16666667,24,21.29710145,"2","13",FALSE
+"972",243,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,12,"Anand, Viswanathan",14.19047619,21,"Gelfand,B",14.33333333,21,28.52380952,"13","2",FALSE
+"973",244,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,13,"Gelfand,B",14.38709677,31,"Anand, Viswanathan",14.09375,32,28.48084677,"2","13",FALSE
+"974",245,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,14,"Anand, Viswanathan",11.34210526,76,"Gelfand,B",18.18421053,76,29.52631579,"13","2",FALSE
+"975",246,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,15,"Gelfand,B",32.98387097,62,"Anand, Viswanathan",28.74603175,63,61.72990271,"2","13",FALSE
+"976",247,"lichess_study_2012-world-championship-anand-gelfand_by_Lichess_2021.11.29.pgn",2012,16,"Anand, Viswanathan",15.09090909,55,"Gelfand,B",15.4,55,30.49090909,"13","2",FALSE
+"977",208,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,1,"Carlsen, Magnus",11.33333333,15,"Anand, Viswanathan",10.75,16,22.08333333,"2","8",FALSE
+"978",209,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,2,"Anand, Viswanathan",9.166666667,24,"Carlsen, Magnus",9.2,25,18.36666667,"8","2",FALSE
+"979",210,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,3,"Carlsen, Magnus",11.42,50,"Anand, Viswanathan",10.19607843,51,21.61607843,"2","8",FALSE
+"980",211,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,4,"Anand, Viswanathan",9.206349206,63,"Carlsen, Magnus",9.571428571,63,18.77777778,"8","2",FALSE
+"981",212,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,5,"Carlsen, Magnus",9.210526316,57,"Anand, Viswanathan",20.43859649,57,29.64912281,"2","8",FALSE
+"982",213,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,6,"Anand, Viswanathan",16.8030303,66,"Carlsen, Magnus",8.820895522,67,25.62392583,"8","2",FALSE
+"983",214,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,7,"Anand, Viswanathan",7,31,"Carlsen, Magnus",6.21875,32,13.21875,"8","2",FALSE
+"984",215,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,8,"Carlsen, Magnus",3.96875,32,"Anand, Viswanathan",3.363636364,33,7.332386364,"2","8",FALSE
+"985",216,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,9,"Anand, Viswanathan",44.96296296,27,"Carlsen, Magnus",16.60714286,28,61.57010582,"8","2",FALSE
+"986",217,"lichess_study_2013-world-championship-anand-carlsen_by_Lichess_2021.11.29.pgn",2013,10,"Carlsen, Magnus",14.515625,64,"Anand, Viswanathan",14.046875,64,28.5625,"2","8",FALSE
+"987",693,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,1,"Anand, Viswanathan",13.12765957,47,"Carlsen, Magnus",11.53191489,47,24.65957447,"8","2",FALSE
+"988",694,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,2,"Carlsen, Magnus",22.41176471,34,"Anand, Viswanathan",39.02941176,34,61.44117647,"2","8",FALSE
+"989",695,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,3,"Anand, Viswanathan",18.3030303,33,"Carlsen, Magnus",32.45454545,33,50.75757576,"8","2",FALSE
+"990",696,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,4,"Carlsen, Magnus",9.760869565,46,"Anand, Viswanathan",8.404255319,47,18.16512488,"2","8",FALSE
+"991",697,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,5,"Anand, Viswanathan",5.973684211,38,"Carlsen, Magnus",5.333333333,39,11.30701754,"8","2",FALSE
+"992",698,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,6,"Carlsen, Magnus",17.94594595,37,"Anand, Viswanathan",32.43243243,37,50.37837838,"2","8",FALSE
+"993",699,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,7,"Carlsen, Magnus",4.606060606,99,"Anand, Viswanathan",4.53,100,9.136060606,"2","8",FALSE
+"994",700,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,8,"Anand, Viswanathan",9.475,40,"Carlsen, Magnus",8.9,40,18.375,"8","2",FALSE
+"995",701,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,9,"Carlsen, Magnus",4,19,"Anand, Viswanathan",2.947368421,19,6.947368421,"2","8",FALSE
+"996",702,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,10,"Anand, Viswanathan",15.12903226,31,"Carlsen, Magnus",13.90322581,31,29.03225806,"8","2",FALSE
+"997",703,"lichess_study_2014-world-championship-anand-vs-carlsen-ii_by_Lichess_2021.11.29.pgn",2014,11,"Carlsen, Magnus",20.63636364,44,"Anand, Viswanathan",30.43181818,44,51.06818182,"2","8",FALSE
+"998",1020,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,1,"Carlsen, Magnus",5.365853659,41,"Karjakin, Sergey",4.642857143,42,10.0087108,"17","8",FALSE
+"999",1021,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,2,"Karjakin, Sergey",5.9375,32,"Carlsen, Magnus",5.59375,32,11.53125,"8","17",FALSE
+"1000",1022,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,3,"Carlsen, Magnus",13.19480519,77,"Karjakin, Sergey",12.24358974,78,25.43839494,"17","8",FALSE
+"1001",1023,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,4,"Karjakin, Sergey",11.82795699,93,"Carlsen, Magnus",10.72043011,93,22.5483871,"8","17",FALSE
+"1002",1024,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,5,"Carlsen, Magnus",11.62,50,"Karjakin, Sergey",11.52941176,51,23.14941176,"17","8",FALSE
+"1003",1025,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,6,"Karjakin, Sergey",3.806451613,31,"Carlsen, Magnus",5.28125,32,9.087701613,"8","17",FALSE
+"1004",1026,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,7,"Karjakin, Sergey",10.53125,32,"Carlsen, Magnus",10,33,20.53125,"8","17",FALSE
+"1005",1027,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,8,"Carlsen, Magnus",22.84313725,51,"Karjakin, Sergey",15,52,37.84313725,"17","8",FALSE
+"1006",1028,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,9,"Karjakin, Sergey",7.123287671,73,"Carlsen, Magnus",7.405405405,74,14.52869308,"8","17",FALSE
+"1007",1029,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,10,"Carlsen, Magnus",14.02702703,74,"Karjakin, Sergey",20.43243243,74,34.45945946,"17","8",FALSE
+"1008",1030,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,11,"Karjakin, Sergey",5.333333333,33,"Carlsen, Magnus",5.393939394,33,10.72727273,"8","17",FALSE
+"1009",1031,"lichess_study_2016-chess-world-championship-carlsen-vs-karjakin_by_Lichess_2021.11.29.pgn",2016,12,"Carlsen, Magnus",4.689655172,29,"Karjakin, Sergey",3.6,30,8.289655172,"17","8",FALSE
+"1010",885,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,1,"Caruana, Fabiano",17.39393939,99,"Carlsen, Magnus",15.56,100,32.95393939,"8","9",FALSE
+"1011",886,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,2,"Carlsen, Magnus",7.458333333,48,"Caruana, Fabiano",7.1875,48,14.64583333,"9","8",FALSE
+"1012",887,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,3,"Caruana, Fabiano",12.52083333,48,"Carlsen, Magnus",9.9375,48,22.45833333,"8","9",FALSE
+"1013",888,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,4,"Carlsen, Magnus",9.484848485,33,"Caruana, Fabiano",7.151515152,33,16.63636364,"9","8",FALSE
+"1014",889,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,5,"Caruana, Fabiano",12.12121212,33,"Carlsen, Magnus",9.878787879,33,22,"8","9",FALSE
+"1015",890,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,6,"Carlsen, Magnus",10.34177215,79,"Caruana, Fabiano",10.6625,80,21.00427215,"9","8",FALSE
+"1016",891,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,7,"Carlsen, Magnus",3.384615385,39,"Caruana, Fabiano",3.846153846,39,7.230769231,"9","8",FALSE
+"1017",892,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,8,"Caruana, Fabiano",12.48648649,37,"Carlsen, Magnus",9.27027027,37,21.75675676,"8","9",FALSE
+"1018",893,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,9,"Carlsen, Magnus",8.963636364,55,"Caruana, Fabiano",9,56,17.96363636,"9","8",FALSE
+"1019",894,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,10,"Caruana, Fabiano",13.37735849,53,"Carlsen, Magnus",11.56603774,53,24.94339623,"8","9",FALSE
+"1020",895,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,11,"Carlsen, Magnus",4.5,54,"Caruana, Fabiano",3.381818182,55,7.881818182,"9","8",FALSE
+"1021",896,"lichess_study_2018-chess-world-championship-carlsen-caruana_by_Lichess_2021.11.29.pgn",2018,12,"Caruana, Fabiano",20.86666667,30,"Carlsen, Magnus",16.70967742,31,37.57634409,"8","9",FALSE
+"1022",816,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,1,"Nepomniachtchi, Ian",7.25,44,"Carlsen, Magnus",8,44,15.25,"8","27",FALSE
+"1023",817,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,2,"Carlsen, Magnus",9.842105263,57,"Nepomniachtchi, Ian",9.655172414,58,19.49727768,"27","8",FALSE
+"1024",818,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,3,"Nepomniachtchi, Ian",3.65,40,"Carlsen, Magnus",2.975,40,6.625,"8","27",FALSE
+"1025",819,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,4,"Carlsen, Magnus",6.8125,32,"Nepomniachtchi, Ian",6.375,32,13.1875,"27","8",FALSE
+"1026",820,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,5,"Nepomniachtchi, Ian",6.534883721,43,"Carlsen, Magnus",6,43,12.53488372,"8","27",FALSE
+"1027",821,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,6,"Carlsen, Magnus",12.97979798,99,"Nepomniachtchi, Ian",13.17,100,26.14979798,"27","8",FALSE
+"1028",822,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,7,"Nepomniachtchi, Ian",2.35,40,"Carlsen, Magnus",2.85,40,5.2,"8","27",FALSE
+"1029",823,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,8,"Carlsen, Magnus",20.44444444,45,"Nepomniachtchi, Ian",32.84444444,45,53.28888889,"27","8",FALSE
+"1030",824,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,9,"Nepomniachtchi, Ian",20.86842105,38,"Carlsen, Magnus",10.48717949,39,31.35560054,"8","27",FALSE
+"1031",825,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,10,"Carlsen, Magnus",3.925,40,"Nepomniachtchi, Ian",2.75,40,6.675,"27","8",FALSE
+"1032",826,"lichess_study_2021-world-chess-championship-carlsen-nepo_2021.12.10.pgn",2021,11,"Nepomniachtchi, Ian",31.75,48,"Carlsen, Magnus",21.06122449,49,52.81122449,"8","27",FALSE
